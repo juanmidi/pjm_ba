@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html ng-app="myApp" lang="es" ng-controller="mainController">
+
+<head>
+  <!-- meta charset="utf-8" -->
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- favicon -->
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+  <!-- CSS     -->
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="css/print.css">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel="stylesheet" type="text/css" href="css/login.css">
+  <link rel="stylesheet" type="text/css" href="css/sweetalert.css">
+
+  <!-- JS -->
+  <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> -->
+	<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+  
+  <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
+  <script type="text/javascript" src="js/bootstrap.min.js"></script>
+  
+  <!-- <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular.min.js"></script> -->
+  <script type="text/javascript" src="js/angular.min.js"></script>
+  <!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.4/angular.min.js"></script> -->
+
+  
+  <!-- <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular-route.js"></script> -->
+  <script type="text/javascript" src="js/angular-route.min.js"></script>
+  <!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.4/angular-route.min.js"></script> -->
+  
+    <script type="text/javascript" src="js/angular-cookies.js"></script>
+
+
+
+    <!-- <script src="http://code.angularjs.org/1.0.8/i18n/angular-locale_es-es.js"></script> -->
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular-animate.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular-sanitize.js"></script>
+<!-- <script src="//angular-ui.github.io/bootstrap/ui-bootstrap-2.5.0.min.js"></script> -->
+  <script src="js/ui-bootstrap-tpls-2.0.0.js"></script>
+
+    
+    <!-- <script type="text/javascript" src="js/angular-sanitize.min.js"></script> -->
+    
+    <script type="text/javascript" src="js/sweetalert.min.js"></script>
+    <script type="text/javascript" src="app/app.js"></script>
+    <script type="text/javascript" src="factory/factory.js"></script>
+    <script type="text/javascript" src="directives/directives.js"></script>
+    <script type="text/javascript" src="controllers/controllers.js"></script>
+    <script type="text/javascript" src="filters/filters.js"></script>
+    <script type="text/javascript" src="app/functions.js"></script>
+    <script type="text/javascript" src="js/numletras.js"></script>
+    <script type="text/javascript" src="js/notify.min.js"></script>
+
+
+<!-- <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "46011a7a-3f12-4efc-a19c-1630955764d5",
+      autoRegister: false,
+      notifyButton: {
+        enable: true,
+      },
+    });
+  });
+</script> -->
+<!-- ------------ -->
+
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/2.5.0/ui-bootstrap-tpls.min.js"></script> -->
+  <style type="text/css">
+    ul>li,
+    a {
+      cursor: pointer;
+    }
+
+    
+
+  </style>
+  <title>Parlamento Juvenil</title>
+</head>
+
+<body>
+  <nav class="navbar navbar-default" role="navigation" id="top">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button id="btn-tool" type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+        <a class="navbar-brand" href="#/inicio">Parlamento</a>
+      </div>
+      <div class="collapse navbar-collapse" id="myNavbar">
+        <ul ng-show="logged" class="nav navbar-nav">
+          <li><a href="#/inicio">Inicio</span></a></li>
+          <li ng-show="role==2"><a href="#/alumnos">Alumnos</span></a></li>
+          <li ng-show="role==2"><a href="#/comisiones/0">Comisiones</a></li>
+          <li ng-show="role==2"><a href="#/estadisticas/0">Estadísticas</a></li>
+          <li ng-show="role==2"><a href="#/cronograma">Cronograma</a></li>
+          <li ng-show="role==2"><a href="#/guia_trabajo">Guía de Trabajo</a></li>
+          <li><a href="#/notificaciones">Notificaciones</a></li>
+          <li ng-show="role==2"><a href="#/configuracion">Configuración</a></li>
+        </ul>
+        <ul ng-show="logged" class="nav navbar-nav navbar-right">
+
+            <li><a id="notificaciones"><span class="glyphicon glyphicon-bell"></span><span id="notification-number" class="badge badge-notify-grey">1</span></a></li>
+            <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" title="usuario: {{nombre}} {{apellido}}"><i class="glyphicon glyphicon-user"></i><b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="">{{nombre}} {{apellido}}</a></li>
+                <li><a href="#/perfil"><i class="icon-cog"></i> Mi Perfil</a></li>
+                <li><a href="#" ng-click="logout()"><span class="glyphicon glyphicon-log-out"></span> Salir</a></li> 
+              </ul>
+            </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div>
+    <div class="container" style="margin-bottom: 10% !important">
+      
+      <div ng-view="" id="ng-view"></div>
+    </div>
+  </div>
+
+  <nav class="navbar navbar-default navbar-fixed-bottom" role="navigation">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-6 text-left">
+          <!-- <a class="small">xxxxxx</a> -->
+        </div>
+        <div class="col-xs-6 text-left">
+          <a id="version" class="small">Versión {{version}}</a>
+          <span class="small">Buenos Aires - Provincia</span>
+        </div>
+      </div>
+    </div>
+  </nav>
+</body>
+<script>
+  $('.navbar-nav>li>a').not( ".dropdown-toggle").on('click', function(){
+      $('.navbar-collapse').collapse('hide');
+  });
+</script>
+
+</html>

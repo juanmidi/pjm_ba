@@ -1,0 +1,118 @@
+  <div class="loading-spiner-holder" data-loading>
+    <div>
+      <img src="img/load.gif" />
+      <span>cargando...</span>
+    </div>
+  </div>
+
+  <div class="container-fluid">
+    <h1>Estadísticas</h1>
+    <div ng-show="role==2" class="row">
+      <form role="form" class="form-horizontal">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <!-- Distrito -->
+            <div class="form-group">
+              <label class="col-md-2"> Distrito </label>
+              <div class="col-md-4">
+                <select ng-options="d.distrito as d.nombre for d in distritos" class="form-control"
+                  ng-model="obj.distrito" ng-change="cambiarDistrito(obj.distrito)">
+                </select>
+              </div>
+            </div>
+
+            <!-- comisión -->
+            <div class="form-group">
+              <label class="col-md-2"> Seleccione Comisión </label>
+              <div class="col-md-4">
+                <select id="comisiones" ng-options="c.comision as c.comision for c in numComisiones"
+                  ng-model="numComisiones.comision" name="comision" class="form-control">
+                </select>
+              </div>
+            </div>
+
+            <!-- vuelta -->
+            <div ng-show="vueltas != ''" class="form-group">
+              <label class="col-md-2"> Seleccione Vuelta </label>
+              <div class="col-md-4">
+                <select id="vuelta" ng-options="v.vuelta as v.vuelta for v in vueltas" ng-model="vuelta" name="vuelta"
+                  class="form-control">
+                </select>
+              </div>
+            </div>
+
+            <!-- postulaciones -->
+            <div ng-show="vueltas == ''" class="form-group">
+              <label class="col-md-2"> Habilitar </label>
+              <div class="col-md-4">
+                <button ng-click="habilitarVotacion(numComisiones.comision, distrito, instancia, vuelta)">Habilitar
+                  postulación</button>
+              </div>
+            </div>
+
+
+            <!-- <div class="col-xs-12">
+          <button ng-show="mostrarAgregarVuelta" ng-click="activarVuelta()" class="btn btn-default">Activar 2da
+            vuelta</button>
+        </div> -->
+          </div>
+        </div>
+      </form>
+    </div>
+
+    <!-- <div ng-show="hayEmpate" class="row">
+      <div class="alert alert-danger">
+        <strong>Hay Empate</strong>
+        <button ng-show="mostrarAgregarVuelta" ng-click="activarVuelta()" class="btn btn-default">
+          Activar Vuelta para desempate
+        </button>
+      </div>
+    </div> -->
+
+    <p>&nbsp;</p>
+
+    <div class="row">
+      <h3 ng-show="role==0">Comisión {{comision}}</h3>
+      <h3 ng-show="role==0">Vuelta {{vuelta_actual}}</h3>
+      <hr>
+      <h5>Alumnos en esta comisión: <span class="label label-default">{{result.total}}</span></h5>
+      <h5>Postulados: <span class="label label-default">{{totalPostulantes}}</span></h5>
+      <div class="col-xs-12">
+        <div class="input-group">
+          <div class="input-group-btn">
+            <h4 ng-show="cuentaVotos">Votó el {{(cuentaVotos/result.total)*100 | number:2}} % de la comisión</h4>
+          </div>
+          <div ng-show="cuentaVotos" class="input-group-btn">
+            <a class="btn btn-default" role="button" ng-click="actualizar(vuelta_actual)"><span
+                class="glyphicon glyphicon-refresh"></span></a>
+          </div>
+        </div>
+      </div>
+
+
+
+
+    </div>
+
+    <div class="list-group">
+      <div class="list-group-item" ng-repeat="e in estadisticas">
+        {{e.alumno}} <span class="badge" ng-class="clase">Votos: {{e.votos}}</span>
+        <!-- <input type="checkbox" ng-show="mostrarSelector"> -->
+        <div class="progress">
+          <div class="progress-bar" ng-class="clase" role="progressbar"
+            style="width:{{(e.votos/result.total*100)|number:0}}%" aria-valuemin="{{e.votos}}"
+            aria-valuemax="{{result.total}}" style="width:70%">
+            {{(e.votos/result.total*100)|number:2}}%
+          </div>&nbsp;&nbsp;&nbsp;&nbsp;
+        </div>
+        <div class="hide">{{clase= 'po'+e.grupoempate}}</div>
+        <div class="text-center">
+          <button ng-click="desempatar(e.grupoempate)" ng-show="e.empate" ng-class="clase"
+            class="btn btn-default btn-xs">EMPATE
+            {{e.grupoempate}}</button>
+        </div>
+      </div>
+    </div>
+<pre>{{estadisticas | json}}</pre>
+<pre>c: {{comision}} d: {{distrito}} i:{{instancia_}} </pre>
+  </div>

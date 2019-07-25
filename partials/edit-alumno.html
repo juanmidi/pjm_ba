@@ -1,0 +1,202 @@
+<style type="text/css">
+    .form-horizontal input.ng-invalid.ng-dirty {
+        border-color: #FA787E;
+    }
+
+    .form-horizontal input.ng-valid.ng-dirty {
+        border-color: #78FA89;
+    }
+
+    .error {
+        color: red;
+    }
+</style>
+<div class="view">
+    <div class="container">
+        <div class="row">
+            <header>
+                <h3>{{title}}</h3>
+            </header>
+
+            <div class="clearfix"></div>
+            <div class="col-md-12">
+
+                <form role="form" name="myForm" class="form-horizontal">
+                    <div class="row">
+
+                        <div class="panel panel-default">
+                            <div class="panel-heading">Datos del Alumno</div>
+                            <div class="panel-body">
+
+                                <div class="form-group" ng-class="{error: myForm.name.$invalid}">
+                                    <label class="col-md-2"> Apellido </label>
+                                    <div class="col-md-4">
+                                        <input id="apellido" name="apellido" ng-model="customer.apellido" type="text"
+                                            class="form-control" placeholder="Apellido" required />
+                                        <span class="error" ng-show="myForm.apellido.$error.required">El apellido es
+                                            obligatorio</span>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-md-2"> Nombre </label>
+                                    <div class="col-md-4">
+                                        <input name="nombre" ng-model="customer.nombre" type="text" class="form-control"
+                                            placeholder="Nombre" required />
+                                        <span class="error" ng-show="myForm.nombre.$error.required">El nombre es
+                                            obligatorio</span>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-md-2"> DNI </label>
+                                    <div class="col-md-4">
+                                        <input name="dni" ng-model="customer.dni" type="text" class="form-control"
+                                            placeholder="DNI" required />
+                                        <span class="error" ng-show="myForm.dni.$error.required">El DNI es
+                                            obligatorio</span>
+                                    </div>
+                                </div>
+
+                                <!-- Contraseña -->
+                                <div class="form-group">
+                                    <label class="col-md-2"> Contraseña </label>
+                                    <div class="col-md-4">
+                                        <input name="pass" ng-model="customer.pass" type="text" class="form-control"
+                                            placeholder="Contraseña" required />
+                                        <span class="error" ng-show="myForm.pass.$error.required">El colegio es
+                                            obligatorio</span>
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label class="col-md-2"> Género </label>
+                                    <div class="col-md-4">
+                                        <!-- <select ng-options="d.distrito as d.nombre for d in distritos" name="distrito" -->
+                                        <select ng-options="g.cod as g.genero for g in generos" name="genero" class="form-control"
+                                            ng-model="customer.genero"
+                                            required>
+                                        </select>
+                                        <span class="error" ng-show="myForm.genero.$error.required">El género es
+                                            obligatorio.</span>
+                                    </div>
+                                </div>
+
+                                <!-- Colegio -->
+                                <div class="form-group">
+                                    <label class="col-md-2"> Colegio </label>
+                                    <div class="col-md-4">
+                                        <input name="colegio" ng-model="customer.colegio" type="text"
+                                            class="form-control" placeholder="Colegio" required />
+                                        <span class="error" ng-show="myForm.colegio.$error.required">El colegio es
+                                            obligatorio</span>
+                                    </div>
+                                </div>
+
+
+                                <!-- región -->
+                                <!-- <select ng-options="r.distrito as r.region for r in regiones" name="region" -->
+                                <!-- <div class="form-group hidden">
+                                    <label class="col-md-2"> region </label>
+                                    <div class="col-md-4">
+                                        <select ng-options="r.distrito as r.region for r in regiones" name="region_tmp"
+                                            id="region_tmp" class="form-control" ng-model="customer.distrito" required>
+                                        </select>
+                                        <span class="error" ng-show="myForm.region.$error.required">El distrito es
+                                            obligatorio.</span>
+                                    </div>
+                                </div> -->
+                                <span>región: {{region}}</span>
+
+                                <!-- Distrito -->
+                                <div class="form-group">
+                                    <label class="col-md-2"> Distrito </label>
+                                    <div class="col-md-4">
+                                        <!-- <select ng-options="d.distrito as d.nombre for d in distritos" name="distrito" -->
+                                        <select ng-options="d.distrito as d.nombre for d in distritos" name="distrito"
+                                            class="form-control" ng-model="customer.distrito"
+                                            ng-change="cambiarRegion(regiones,customer.distrito)"
+                                            required>
+                                        </select>
+                                        <span class="error" ng-show="myForm.distrito.$error.required">El distrito es
+                                            obligatorio.</span>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-md-2"> Comisión </label>
+                                    <div class="col-md-4">
+                                        <!-- <select ng-options="d.distrito as d.nombre for d in distritos" name="distrito" -->
+                                        <select ng-options="c for c in comisiones" name="comision" class="form-control"
+                                            ng-model="customer.comision" required>
+                                        </select>
+                                        <span class="error" ng-show="myForm.comision.$error.required">La comision es
+                                            obligatoria.</span>
+                                    </div>
+                                </div>
+
+                                <!-- teléfono -->
+                                <div class="form-group">
+                                    <label class="col-md-2"> Teléfono </label>
+                                    <div class="col-md-4">
+                                        <input name="telefono" ng-model="customer.telefono" type="text"
+                                            class="form-control" placeholder="teléfono móvil" />
+                                        <span class="error" ng-show="myForm.email.$error.required">El teléfono es
+                                            obligatorio</span>
+                                    </div>
+                                </div>
+
+
+                                <!-- email -->
+                                <div class="form-group">
+                                    <label class="col-md-2"> Email </label>
+                                    <div class="col-md-4">
+                                        <input name="email" ng-model="customer.email" type="email" class="form-control"
+                                            placeholder="email" />
+                                        <span class="error" ng-show="myForm.email.$error.required">El email es
+                                            obligatorio</span>
+                                    </div>
+                                </div>
+
+                                <!-- rol -->
+                                <div class="form-group">
+                                    <label class="col-md-2"> Rol </label>
+                                    <div class="col-md-4">
+                                        <select ng-options="r.id as r.nombre for r in roles" name="rol"
+                                            class="form-control" ng-model="customer.rol" required>
+                                        </select>
+                                        <span class="error" ng-show="myForm.roles.$error.required">El rol es
+                                            obligatorio.</span>
+                                    </div>
+                                </div>
+
+                                <!-- cargos -->
+                                <div class="form-group">
+                                    <label class="col-md-2"> Cargo </label>
+                                    <div class="col-md-4">
+                                        <select ng-options="c.id as c.nombre for c in cargos" name="cargo"
+                                            class="form-control" ng-model="customer.cargo" required>
+                                        </select>
+                                        <span class="error" ng-show="myForm.roles.$error.required">El cargo es
+                                            obligatorio.</span>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="col-md-2"></label>
+                            <div class="col-md-4">
+                                <a href="#/alumnos" class="btn">Cancel</a>
+                                <button ng-click="saveAlumno(customer)" ng-disabled="isClean() || myForm.$invalid"
+                                    class="btn btn-primary">{{buttonText}}</button>
+                                <button ng-click="darDeBajaAlumno(customer)" ng-show="customer._id"
+                                    class="btn btn-warning">Dar de baja</button>
+                                <!-- <button ng-click="deleteAlumno(customer)" ng-show="customer._id" class="btn btn-warning">Delete</button> -->
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

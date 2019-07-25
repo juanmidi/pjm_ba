@@ -1,0 +1,105 @@
+<div class="loading-spiner-holder" data-loading>
+    <div>
+        <img src="img/load.gif" />
+        <span>cargando...</span>
+    </div>
+</div>
+<div class="container-fluid">
+    <h1>Alumnos</h1>
+    <div class="row">
+        <!-- <form class="form-group">
+            <div class="col-sm-12">
+                <label>Filtro:</label>
+                <div class="btn-group">
+                    <input id="buscar" name="buscar" class="form-control" type="text" ng-model="alumno" />
+                    <span ng-click="clearFilter()" id="searchclear" class="glyphicon glyphicon-remove-circle"></span>
+                </div>
+                <a class="btn btn-default navbar-btn" role="button" href="#/edit-alumno/0"><span
+                        class="glyphicon glyphicon-plus"></span></a>
+                <a class="btn btn-default navbar-btn" role="button" ng-click="actualizar()"><span
+                        class="glyphicon glyphicon-refresh"></span></a>
+            </div>
+        </form> -->
+
+        <form class="form-group">
+            <div class="col-xs-8">
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="glyphicon glyphicon-search"></i></span>
+                    <input id="buscar" name="buscar" class="form-control" type="text" ng-model="alumno" />
+                    <div class="input-group-btn">
+                        <button ng-click="clearFilter()" class="btn btn-default" type="submit"><i
+                                class="glyphicon glyphicon-remove-circle"></i></button>
+                    </div>
+                
+                </div>
+                
+            </div>
+
+            <div class="col-xs-4">
+                <div class="input-group">
+                    <div class="input-group-btn">
+                <a class="btn btn-default" role="button" href="#/edit-alumno/0"><span
+                        class="glyphicon glyphicon-plus"></span></a></div>
+                <a class="btn btn-default" role="button" ng-click="actualizar()"><span
+                        class="glyphicon glyphicon-refresh"></span></a>
+                </div>
+            </div>
+
+        </form>
+
+        <!-- <div class="col-sm-3">
+            
+        </div>
+        <div class="col-sm-3">
+            
+        </div> -->
+    </div>
+    <p>&nbsp;</p>
+    <div class="row">
+        <div class="table-responsive">
+            <table ng-init="configPages()" class="table table-striped table-bordered table-condensed">
+                <thead>
+                    <th ng-click="SetSort('alumno')">Alumnos&nbsp;</th>
+                    <th ng-click="SetSort('comision', 'currency')">Comisión&nbsp;</th>
+                    <th class="small">Aut.&nbsp;</th>
+                    <th class="small">Reg.&nbsp;</th>
+                    <th class="small">Dist.&nbsp;</th>
+                </thead>
+                <tbody>
+                        <!-- item in filtered = items | filter:search | startFrom:(currentPage-1)*entryLimit | limitTo:entryLimit" -->
+                    <tr ng-repeat="data in filtered = alumnos | filter: alumno | startFrom:(currentPage-1)*entryLimit | limitTo:entryLimit | orderBy: predicate:reverse"
+                        repeat-end="onEnd()">
+                        <td>
+                            <a ng-class="{'coordinador' : data.rol > 0}" href="#/edit-alumno/{{data.id}}" id="id{{data.id}}">{{data.alumno}}</a>
+                            <br><span ng-show="data.rol == 0" class="small text-muted">{{data.colegio}}</span>
+                            <span ng-show="data.rol == 1" class="small text-muted">Docente</span>
+                            <span ng-show="data.rol == 2" class="small text-muted">Coordinador</span>
+                        </td>
+                        <td>
+                            <select ng-hide=" {{data.comision}}==0"
+                                ng-options="c for c in comisiones" name="comision"
+                                class="form-control" ng-model="data.comision"
+                                ng-change="guardarComision(data.id, data.comision)">
+                            </select>
+                            <!-- {{data.comision}} -->
+
+                        </td>
+                        <td>
+                            <input ng-hide="{{data.id}}=={{myId}}" ng-click="guardarAceptado(data.id,data.aceptado)"
+                                type="checkbox" ng-checked="{{data.aceptado}}" ng-model="data.aceptado">
+                        </td>
+                        <td>{{data.region}}</td>
+                        <td>{{data.distrito}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    
+
+<ul uib-pagination ng-model="currentPage" max-size="noOfPages" total-items="filtered.length" items-per-page="entryLimit">
+</ul>
+<pre>
+    {{ordenarPor}}
+</pre>
+</div>

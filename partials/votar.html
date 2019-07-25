@@ -1,0 +1,19 @@
+<div class="loading-spiner-holder" data-loading>
+  <div>
+    <img src="img/load.gif" />
+    <span>cargando...</span>
+  </div>
+</div>
+<div class="container-fluid">
+  <h1>Votar</h1>
+  <div class="row" ng-hide="ocultar_boton">
+    <div ng-repeat="postulante in postulantes" class="col-sm-12 text-center">
+<a class="btn btn-default navbar-btn" role="button"
+  ng-click="registrarVoto(id, postulante.id_postulante, postulante.alumno)">
+        &nbsp;{{postulante.alumno}}
+        <h5><small>{{postulante.colegio}}</small></h5></a>
+        
+    </div>
+  </div>
+  <p>&nbsp;</p>
+</div>

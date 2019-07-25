@@ -1,0 +1,157 @@
+.table > tbody > tr:hover {
+  background-color: #F2F2F2;
+  cursor: pointer;
+}
+
+.red {
+	background-color: #cc0000;
+}
+
+.loading-spiner-holder {
+ position: absolute;
+ left:50%;
+ top:50%;
+ width: 100px;
+ height: 100px;
+}
+
+.alto-fijo-recibo{
+  /*Tamaño A4  595 x 842*/
+  /* height: 585px; */
+  /* height: 700px; */
+  height: 660px;
+}
+
+
+
+.linea-punteada {
+  background-color: #fff;
+	border-top: 2px dashed #8c8b8b;
+}
+
+.badge-warning {
+  background-color: #f89406;
+}
+
+.badge-success {
+  background-color: #468847;
+}
+
+.badge-error {
+  background-color: #b94a48;
+}
+
+.badge-notify-grey{
+   background:grey;
+   position:relative;
+   top: 0px;
+   left: 7px;
+}
+
+.badge-notify-red{
+   background:red;
+   position:relative;
+   top: 0px;
+   left: 7px;
+}
+
+.profe {
+
+padding-left: 15px;
+padding-right: 15px;
+margin-left: 10px;
+margin-right: 10px;
+}
+
+.coordinador{
+  color: olivedrab
+
+}
+
+
+.po1 {
+  background-color: rgb(247, 157, 22) !important;
+}
+
+.po2 {
+  background-color: rgb(21, 216, 15) !important;
+}
+
+.po3 {
+  background-color: rgb(247, 20, 126) !important;
+}
+
+
+.po4 {
+  background-color: rgb(181, 13, 187) !important;
+}
+
+.po5 {
+  background-color: rgb(247, 250, 69) !important;
+}
+
+
+.material-switch>input[type="checkbox"] {
+  display: none;
+}
+
+.material-switch>label {
+  cursor: pointer;
+  height: 0px;
+  position: relative;
+  width: 40px;
+}
+
+.material-switch>label::before {
+  background: rgb(0, 0, 0);
+  box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.5);
+  border-radius: 8px;
+  content: '';
+  height: 16px;
+  margin-top: -8px;
+  position: absolute;
+  opacity: 0.3;
+  transition: all 0.4s ease-in-out;
+  width: 40px;
+}
+
+.material-switch>label::after {
+  background: rgb(255, 255, 255);
+  border-radius: 16px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  content: '';
+  height: 24px;
+  left: -4px;
+  margin-top: -8px;
+  position: absolute;
+  top: -4px;
+  transition: all 0.3s ease-in-out;
+  width: 24px;
+}
+
+.material-switch>input[type="checkbox"]:checked+label::before {
+  background: inherit;
+  opacity: 0.5;
+}
+
+.material-switch>input[type="checkbox"]:checked+label::after {
+  background: inherit;
+  left: 20px;
+}
+
+
+
+/* navbar color verde */
+/*
+.navbar {
+  background-color: #9DCA4B;
+}
+
+#btn-tool span {
+  background-color: white !important;
+}
+
+.navbar *{
+  color: #F2F2F2 !important
+}
+*/

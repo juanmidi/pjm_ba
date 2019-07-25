@@ -1,0 +1,30 @@
+<style>
+  #comment {
+    white-space: pre-wrap;
+  }
+</style>
+
+<div class="loading-spiner-holder" data-loading>
+  <div>
+    <img src="img/load.gif" />
+    <span>cargando...</span>
+  </div>
+</div>
+<div class="container-fluid">
+  <h1>Cronograma</h1>
+  <div class="row">
+    <div class="form-group">
+<div ng-show="role==2" class="col-xs-8">Escriba aquí los detalles del evento por día. Los estudiantes visualizarán esta
+  información
+        en sus cuentas.</div>
+      <div class="col-xs-4">
+        <button ng-show="role==2" ng-click="guardar()" class="btn btn-default pull-right">Guardar</button></div>
+<textarea  class="form-control" rows="20" id="comment" readonly>{{message}}</textarea>
+</div>
+  </div>
+  <p>&nbsp;</p>
+</div>
+
+<script>
+
+</script>

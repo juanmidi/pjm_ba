@@ -1,0 +1,40 @@
+<h1>Configuración</h1>
+<br>
+<h4>Activar Votaciones</h4>
+<hr>
+<!-- <div ng-repeat="nc in numComisiones">
+  <input id="comision-{{nc.comision}}" ng-click="votoOnOff(nc.comision)" type="checkbox"> Comisión {{nc.comision}}
+</div> -->
+
+
+<!-- <div ng-repeat="d in distritos">
+  <input ng-model="d.voto_habilitado" id="distrito-{{d.distrito}}" ng-click="votoOnOff(d.distrito)" type="checkbox"
+    ng-true-value="'1'" ng-false-value="'0'"> distrito {{d.nombre}}
+</div> -->
+
+<ul class="list-group" ng-repeat="d in distritos">
+  <li class="list-group-item">
+    Habilitar Postulación {{d.nombre}}
+    <div class="material-switch pull-right">
+      <input ng-model="d.postu_habilitada" id="distrito-postu-{{d.distrito}}" ng-click="postuOnOff(d.distrito)"
+        type="checkbox"
+      ng-true-value="'1'" ng-false-value="'0'" />
+      <label for="distrito-postu-{{d.distrito}}" class="label-primary"></label>
+    </div>
+  </li>
+  <li class="list-group-item">
+    Habilitar VOTO {{d.nombre}}
+    <div class="material-switch pull-right">
+      <input ng-model="d.voto_habilitado" id="distrito-{{d.distrito}}" ng-click="votoOnOff(d.distrito)" type="checkbox"
+        ng-true-value="'1'" ng-false-value="'0'" />
+      <label for="distrito-{{d.distrito}}" class="label-primary"></label>
+    </div>
+  </li>
+</ul>
+
+
+<pre>{{distritos | json}}</pre>
+
+
+
+<button class="btn btn-default">Resultado Distrital</button>

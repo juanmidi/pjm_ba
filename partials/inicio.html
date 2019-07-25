@@ -1,0 +1,152 @@
+<div class="loading-spiner-holder" data-loading>
+  <div>
+    <img src="img/load.gif" />
+    <span>cargando...</span>
+  </div>
+</div>
+<div class="container-fluid">
+  <h1>Inicio
+
+  <a ng-show="role==0" class="btn btn-default" role="button" ng-click="init()"><span
+      class="glyphicon glyphicon-refresh"></span></a>
+
+  </h1>
+
+  <h5>Bienvenido {{apellido}}, {{nombre}}</h5>
+  <hr>
+  <!-- vista rol alumno -->
+  <div ng-show="role==0">
+    <!-- <h4>Acciones</h4> -->
+    <h4>Instancia {{instancia}}</h4>
+    <h5>Comisión N° <span class="label label-success">{{comision}}</span></h5>
+
+<a ng-show="votohabilitado" class="btn btn-default">vototo</a>
+    
+    <uib-tabset active="active">
+      <uib-tab index="0" heading="Acciones">
+        <br>
+        
+        <div class="row">
+          <div class="col-sm-9">
+            <a class="btn btn-default navbar-btn" role="button" href="#/cronograma"><span
+                class="glyphicon glyphicon-bookmark"></span>&nbsp;Cronograma</a>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-9">
+            <a class="btn btn-default navbar-btn" role="button" href="#/guia_trabajo"><span
+                class="glyphicon glyphicon-book"></span>&nbsp;Guia de Trabajo</a>
+          </div>
+        </div>
+      </uib-tab>
+
+
+      <!-- Primera Vuelta -->
+      <uib-tab ng-show="b1ravuelta" index="1" heading="1ra Vuelta" select="setVuelta(1)">
+        <br>
+        <div class="row">
+          <div class="col-sm-9">
+            <h4 ng-show="tieneVoto1"><small>Votaste por</small> {{votastepor1}}</h4>
+            <a ng-show="!tieneVoto1" class="btn btn-default navbar-btn" role="button" ng-click="votar(id, comision,distrito, vuelta_actual, instancia)"><span class="glyphicon glyphicon-thumbs-up"></span>&nbsp;Votar</a>
+          </div>
+        </div>
+
+        <div ng-show="segundavuelta" class="row">
+          <div class="col-sm-9">
+            <a class="btn btn-default navbar-btn" role="button" ng-click="votar2(id)"><span
+                class="glyphicon glyphicon-share-alt"></span>&nbsp;2da Vuelta</a>
+          </div>
+        </div>
+
+
+        <div class="row">
+          <div class="col-sm-9">
+            <h4 ng-show="es_postulante1">Estás postulado para la elección</h4>
+            <a ng-show="!es_postulante1" class="btn btn-default navbar-btn" role="button" ng-click="postular(id)"><span
+                class="glyphicon glyphicon-comment"></span>&nbsp;Postularme</a>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-sm-9">
+            <a class="btn btn-default navbar-btn" role="button" href="#/estadisticas/1"><span
+                class="glyphicon glyphicon-flag"></span>&nbsp;Estadísticas</a>
+            <!-- <span>Todavía no puedes ver los resultados</span> -->
+          </div>
+        </div>
+
+      </uib-tab>
+      
+      <!-- Segunda Vuelta -->
+      <uib-tab ng-show="b2davuelta" index="2" heading="2da Vuelta" select="setVuelta(2)">
+         <br>
+         <div class="row">
+           <div class="col-sm-9">
+             <h4 ng-show="tieneVoto2"><small>Votaste por</small> {{votastepor2}}</h4>
+             <a ng-show="!tieneVoto2" class="btn btn-default navbar-btn" role="button"
+               ng-click="votar(id, comision, distrito, vuelta_actual, instancia)"><span
+                 class="glyphicon glyphicon-thumbs-up"></span>&nbsp;Votar</a>
+           </div>
+         </div>
+
+         <div ng-show="segundavuelta" class="row">
+           <div class="col-sm-9">
+             <a class="btn btn-default navbar-btn" role="button"
+               ng-click="votar(id, comision, distrito, vuelta_actual, instancia)"><span
+                 class="glyphicon glyphicon-share-alt"></span>&nbsp;2da Vuelta</a>
+           </div>
+         </div>
+
+         <div class="row">
+           <div class="col-sm-9">
+             <a class="btn btn-default navbar-btn" role="button" href="#/estadisticas/2"><span
+                 class="glyphicon glyphicon-flag"></span>&nbsp;Estadísticas</a>
+             <!-- <span>Todavía no puedes ver los resultados</span> -->
+           </div>
+         </div>
+      </uib-tab>
+
+
+      <!-- Tercera Vuelta -->
+      <uib-tab ng-show="b3ravuelta" index="3" heading="3ra Vuelta" select="setVuelta(3)">
+        <br>
+        <div class="row">
+          <div class="col-sm-9">
+            <h4 ng-show="tieneVoto3"><small>Votaste por</small> {{votastepor3}}</h4>
+            <a ng-show="!tieneVoto3" class="btn btn-default navbar-btn" role="button"
+              ng-click="votar(id, comision, distrito, vuelta_actual, instancia)"><span
+                class="glyphicon glyphicon-thumbs-up"></span>&nbsp;Votar</a>
+          </div>
+        </div>
+
+        <div ng-show="terceravuelta" class="row">
+          <div class="col-sm-9">
+            <a class="btn btn-default navbar-btn" role="button"
+              ng-click="votar(id, comision, distrito, vuelta_actual, instancia)"><span
+                class="glyphicon glyphicon-share-alt"></span>&nbsp;3ra Vuelta</a>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-sm-9">
+            <a class="btn btn-default navbar-btn" role="button" href="#/estadisticas/3"><span
+                class="glyphicon glyphicon-flag"></span>&nbsp;Estadísticas</a>
+            <!-- <span>Todavía no puedes ver los resultados</span> -->
+          </div>
+        </div>
+      </uib-tab>
+
+    </uib-tabset>
+
+  </div>
+
+  <p>&nbsp;</p>
+</div>
+<!-- vista rol coordinador -->
+<div ng-show="role==2">
+  Menú coordinador
+</div>
+
+</div>
+
+<pre>{{votohabilitado | json}}</pre>

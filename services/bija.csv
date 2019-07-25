@@ -1,0 +1,1223 @@
+id_alumno,alumno,dni,colegio,region,distrito,nombre,comision,votos
+312,"Santiago Rodrigues, Iasmin",99730781,"ESS 8",0,113,BERISSO,5,3
+1089,"Batman, Bruno",11,Murciélago,0,122,ISLAS,1,1
+3738,"gonzalez, juana",44834037,E.E.S.Nº42,1,1,"LA PLATA",1,5
+3661,"laborde, lucia",43505966,"escuela benito lynch",1,1,"LA PLATA",1,3
+3654,"acosta, maria eugenia",45613866,"escuela benito lynch",1,1,"LA PLATA",1,1
+3658,"olivera, candela",45573325,"escuela benito lynch",1,1,"LA PLATA",1,1
+3670,"barbarella, piana",42536070,"E.E.S.Nº 1",1,1,"LA PLATA",2,2
+3664,"lacelli, delfina",45355805,"colegio manantiales",1,1,"LA PLATA",2,2
+3643,"sans, juan ignacio",43805645,"Instituto San Vicente de Paúl",1,1,"LA PLATA",2,1
+3666,"piñero, valentina",44110092,"colegio manantiales",1,1,"LA PLATA",2,1
+3678,"kromer, marcos",43462723,E.E.S.N°7,1,1,"LA PLATA",2,1
+3763,"Quiroz, Micaela",44966929,E.E.S.N°61,1,1,"LA PLATA",2,1
+3637,"lattaro, sol stefania",43805718,"Instituto San Vicente de Paúl",1,1,"LA PLATA",3,3
+3659,"rios urquizo, ivania",94861850,"escuela benito lynch",1,1,"LA PLATA",3,2
+3681,"guidobono, nicolas",44957558,E.E.S.N°7,1,1,"LA PLATA",3,1
+3665,"batisttessa, agustina",45538842,"colegio manantiales",1,1,"LA PLATA",3,1
+3791,"ruiz, bianca",47691354,E.E.S.N°7,1,1,"LA PLATA",4,2
+3649,"aranguren, brena maria",43860287,"escuela benito lynch",1,1,"LA PLATA",4,2
+3632,"biasella, valentin",44785220,"EEST San Vicente de Paúl",1,1,"LA PLATA",4,2
+3638,"mc coubrey, valentina",43778320,"Instituto San Vicente de Paúl",1,1,"LA PLATA",4,1
+3640,"roldan, lara josefina",44130492,"Instituto San Vicente de Paúl",1,1,"LA PLATA",4,1
+3660,"sureda, zoe",45284219,"escuela benito lynch",1,1,"LA PLATA",4,1
+3662,"tussone, carmela",45780848,"colegio manantiales",1,1,"LA PLATA",5,4
+3775,"Cáceres Bovadilla, tania",95088205,E.E.S.Nº77,1,1,"LA PLATA",5,2
+3736,"mamani, jazmin",43302811,E.E.S.Nº42,1,1,"LA PLATA",5,2
+3639,"morales condoleo, micaela",43731705,"Instituto San Vicente de Paúl",1,1,"LA PLATA",5,1
+3655,"arraras, delfina",45630367,"escuela benito lynch",1,1,"LA PLATA",5,1
+3677,"ullua, melina",44666663,E.E.S.N°7,1,1,"LA PLATA",6,3
+3635,"ayesa, oriana",44208584,"EEST San Vicente de Paúl",1,1,"LA PLATA",6,3
+3636,"vega karaim, jeronimo",43506489,"EEST San Vicente de Paúl",1,1,"LA PLATA",6,2
+3634,"GHERGHI DANDREA, juan felipe",43912730,"EEST San Vicente de Paúl",1,1,"LA PLATA",6,1
+651,"espindola, paula",44353662,E.E.S.Nº3,1,14,BRANDSEN,1,5
+691,"llanos, lucia",44110942,"E.E.S.Nº 6",1,14,BRANDSEN,2,7
+653,"pavon, lukas",44415992,E.E.S.Nº3,1,14,BRANDSEN,3,3
+640,"espinola, ayén",43592793,"E.E.S.Nº 1",1,14,BRANDSEN,3,2
+636,"gonzalez, nicolle",43511552,"E.E.S.Nº 1",1,14,BRANDSEN,3,2
+633,"de franco, malena",44356626,"E.E.S.Nº 1",1,14,BRANDSEN,4,3
+650,"capossetti, brenda",44589735,E.E.S.Nº3,1,14,BRANDSEN,4,3
+4852,"GANON, AILEN",44961308,"EA 1",1,64,MAGDALENA,1,4
+4891,"LOIZU, PEDRO",41857794,"ES 8",1,64,MAGDALENA,2,4
+5258,"PUENTEDURA, URIEL",44185497,"EA 1",1,64,MAGDALENA,2,1
+4841,"OJEA, ALEXIA",44518079,"ES 9",1,64,MAGDALENA,3,4
+4854,"ESCANDALO, TOMAS",44650758,"EA 1",1,64,MAGDALENA,3,1
+4855,"IHIDOY, IRINA",44301051,"EA 1",1,64,MAGDALENA,4,4
+4945,"PALACIOS, CRISTIAN",45578970,"ES 6",1,64,MAGDALENA,4,3
+4856,"MARTINEZ, JULIETA",44301068,"EA 1",1,64,MAGDALENA,5,5
+4939,"MEDINA, IVAN",46642140,"ES 6",1,64,MAGDALENA,5,1
+287,"LIPTAK, BRISA",44817113,"EES N°8",1,113,BERISSO,1,3
+234,"CASTILLO, JOAQUIN",44723323,"EES N 13",1,113,BERISSO,1,3
+288,"PENDENZA, MARIA",43738441,"EES N°8",1,113,BERISSO,1,1
+220,"BASAL, BRUNO",44425885,"RENE FAVALORO",1,113,BERISSO,2,3
+289,"GOMEZ, PABLO",42901797,"EES N°8",1,113,BERISSO,2,2
+283,"GONZALEZ, PATRICIO",43680541,"EES N 9",1,113,BERISSO,2,2
+230,"CANO, CAMILA",43860500,"EESN 3 ""LOLA MORA""",1,113,BERISSO,4,3
+292,"MENENDEZ, ANTONELLA",42675002,"EES N°8",1,113,BERISSO,4,1
+269,"HOGGAN, KATHERINE",43783855,"EES N°9",1,113,BERISSO,4,1
+232,"RIOS VERA, LUZ JOHANA",43993701,"EESN 3 ""LOLA MORA""",1,113,BERISSO,5,2
+223,"SILVA, MATEO",44785347,"RENE FAVALORO",1,113,BERISSO,5,1
+258,"CABAÑEZ, DYLAN",46108628,"EES N 4",1,113,BERISSO,5,1
+264,"DIAZ, ALEJANDRA",43311942,"EES N°9",1,113,BERISSO,7,3
+1841,"ortoño, brisa",45426075,E:E.S.N°4,1,114,ENSENADA,1,3
+1821,"bosch, jose",42832889,"patio e.p.n°11",1,114,ENSENADA,1,1
+1685,"mendez, catalina",44426462,"E.E.S.Nº 8",1,114,ENSENADA,1,1
+1668,"arevalos, agustina",44259966,"E.E.S.Nº 1",1,114,ENSENADA,1,1
+1676,"valdez, nahiara",44650369,"E.E.S.Nº 1",1,114,ENSENADA,1,1
+1669,"ardizon, alejo",43778804,"E.E.S.Nº 1",1,114,ENSENADA,2,5
+1825,"villa, tamara",42453606,"patio e.p.n°11",1,114,ENSENADA,2,1
+1843,"brest, guadalupe",44691190,E:E.S.N°4,1,114,ENSENADA,2,1
+1679,"cabanera, micaela",44691254,"E.E.S.Nº 8",1,114,ENSENADA,3,4
+1894,"LUNA, JUAN MANUEL",45989040,E.E.S.N°2,1,114,ENSENADA,3,2
+1898,"quiroga, julian",39328777,"patio e.p.n°11",1,114,ENSENADA,3,1
+1673,"bisjarra, agustina",43850659,"E.E.S.Nº 1",1,114,ENSENADA,4,6
+1984,"palomo, marcelo",43592547,E.E.S.N°2,1,114,ENSENADA,4,1
+1674,"bologna, joaquin",44081765,"E.E.S.Nº 1",1,114,ENSENADA,5,6
+1838,"Pro, Angel",45613412,"Es 4",1,114,ENSENADA,5,2
+1683,"ruiz millan, camila",44817429,"E.E.S.Nº 8",1,114,ENSENADA,6,3
+1818,"curciarello, thomas",45989110,"patio e.p.n°11",1,114,ENSENADA,6,2
+1839,"filpe, melanie",43933110,E:E.S.N°4,1,114,ENSENADA,6,1
+6638,"Orrobalis, Laura",43517697,"EES N8",2,5,AVELLANEDA,1,1
+6168,"Armendariz, Katherine",46207196,"Escuela de Educación Secundaria N° 5",2,5,AVELLANEDA,4,6
+6142,"Lagahe, Sabrina",46581229,"E.E.S N°5",2,5,AVELLANEDA,4,5
+6923,"Patron, Ramiro A",43256785,Ees9,2,5,AVELLANEDA,7,2
+4608,"Rodríguez Carta, Sofía",44163308,"media 6",2,5,AVELLANEDA,8,7
+4811,"Ibarra, Priscila",43038148,"EESN° 10",2,5,AVELLANEDA,9,4
+5614,"Mesa, Delfina",43984533,"EES N°27",2,5,AVELLANEDA,11,4
+5826,"Fernández, Fernando",42656983,"E.E.S N°22",2,5,AVELLANEDA,14,3
+5167,"Maciel, Zahira",43984280,"Instituto Victoria Ocampo",2,5,AVELLANEDA,17,6
+5165,"Monzón, Delfina",44053137,"Instituto Victoria Ocampo",2,5,AVELLANEDA,17,4
+5166,"Vizzia Maggi, Oriana",43569865,"Instituto Victoria Ocampo",2,5,AVELLANEDA,17,4
+578,"Villaverde, Camila Milagros",43407178,"es1 abraham lincoln",2,62,"L DE ZAMORA",1,8
+4650,"Corbalán, Federico",43573789,"Media 10",2,62,"L DE ZAMORA",1,4
+3711,"Gemignani, Nahuel",44521020,"Colegio Sarmiento",2,62,"L DE ZAMORA",1,4
+4822,"Hirschfeld, Ludwig alexander",45312049,60,2,62,"L DE ZAMORA",1,3
+3998,"Godoy baez, Tomás lautaro",49959771,"E.E.S. N° 10",2,62,"L DE ZAMORA",1,2
+5029,"Heschel Cardozo, Nahir",6555150,"EES 74",2,62,"L DE ZAMORA",1,1
+1256,"Lopez villarroel, Jhaneth",94216830,"E.E.S 74",2,62,"L DE ZAMORA",1,1
+4764,"Marino, Antonella",46350227,ES10,2,62,"L DE ZAMORA",1,1
+5610,"Valdecantos, Sofia",43582175,"EES n 31",2,111,LANUS,2,1
+5633,"Baez, Thiago",45228387,E.E.S.N-7,2,111,LANUS,2,1
+4733,"Ainadjian, Diego",43519176,"EES N1",2,111,LANUS,2,1
+5950,"Bravo, Angela",42492620,N°39,2,111,LANUS,2,1
+4206,"Bustos aguilera, Joaquín adrian",44052752,"Instituto Gruta Nuestra Señora de Lourdes",2,111,LANUS,2,1
+5633,"Baez, Thiago",45228387,E.E.S.N-7,2,111,LANUS,2,1
+5487,"Leon, Erica",94704170,"EES 16",4,32,"F VARELA",2,6
+5487,"Leon, Erica",94704170,"EES 16",4,32,"F VARELA",2,6
+5712,"castillo, agustina gabriela",44656355,"Julio Cortázar media n°8",4,32,"F VARELA",2,5
+5694,"Fernandez, Denisse",46091302,"Secundaria 2",4,32,"F VARELA",2,4
+1227,"Lazarte, Nerea",45393391,"E.e.s.m.n°8 ""Julio Cortázar""",4,32,"F VARELA",2,3
+5860,"Ruiz Díaz, Matias",42598157,"Instuto Don Orione",4,32,"F VARELA",2,3
+5860,"Ruiz Díaz, Matias",42598157,"Instuto Don Orione",4,32,"F VARELA",2,3
+5683,"Ruski, Magali",43241044,"E.E.S n°6",4,32,"F VARELA",2,2
+5825,"Ordoñez, Araceli",44285125,"Instituto Don Orione",4,32,"F VARELA",2,2
+5680,"Leguiza, Julieta",44.377.722,"Media 6",4,32,"F VARELA",2,2
+5679,"Quintana, Antonella",45675191,"ES 6",4,32,"F VARELA",2,2
+5883,"Ferreyra, Leila",43725881,"Santo domingo de guzman",4,32,"F VARELA",2,2
+5707,"Melender, Braian leonardo",44522711,"Secundaria 2",4,32,"F VARELA",2,2
+5705,"Meza, Agustina",44002839,"Don orione",4,32,"F VARELA",2,1
+5889,"Martinez, Zoe",43.301.019,"E.E.S N°2",4,32,"F VARELA",2,1
+5865,"Fleytas, Micaela",45.782.573,E.E.S.N°8,4,32,"F VARELA",2,1
+5481,"Ramirez, Ayelen",43249244,"EES 16",4,32,"F VARELA",2,1
+5700,"Lopez Gongalves, Hanna",44722818,"Secundaria 2",4,32,"F VARELA",2,1
+5880,"Porco carmona, Noelia erica",43804461,"Colegio Santo Domingo de guzman",4,32,"F VARELA",2,1
+5697,"Flores, Maia",44961127,EESN17,4,32,"F VARELA",2,1
+5866,"Garcia, Roman",43968372,"Instuto Don Orione",4,32,"F VARELA",2,1
+2281,"Santillán, Gabriel",43516740,"EES N° 52",4,119,BERAZATEGUI,1,7
+2554,"Morilla, Bruno",44054790,27,4,119,BERAZATEGUI,1,7
+2270,"Atanu, Kevin",44.636.789,N20,4,119,BERAZATEGUI,1,4
+1509,"Miers, Mariela Janet",94192604,E.E.S.N°30,4,119,BERAZATEGUI,1,4
+2579,"Santana, Luna",44545061,N°36,4,119,BERAZATEGUI,1,4
+2118,"Balbuena, Christian",44092947,E.E.S.N°27,4,119,BERAZATEGUI,1,3
+2263,"golnner, Alejo Thomas",45611339,"Escuela de educación secundaria n°20",4,119,BERAZATEGUI,1,3
+2168,"Lezcano, Lucas",43671056,N°24,4,119,BERAZATEGUI,1,2
+1507,"Cindric, Jimena",43102393,"EES N30",4,119,BERAZATEGUI,1,2
+2577,"López, Fabricio",44093910,EES36,4,119,BERAZATEGUI,1,2
+684,"pedrozo, camila giuliana",43655325,"secundaria n°20",4,119,BERAZATEGUI,1,1
+2165,"Romero, Candela",44285466,"Ees n° 24",4,119,BERAZATEGUI,1,1
+2089,"Nicolosi, Lara",45782560,"Ees n° 24",4,119,BERAZATEGUI,1,1
+2580,"Calvo, Veronica",44545164,36,4,119,BERAZATEGUI,1,1
+1538,"Mena, Candela",45624199,"Escuela secundaria número 68",5,4,"A BROWN",15,1
+1539,"Díaz, Candela",44650253,"Esb 68",5,4,"A BROWN",15,1
+1484,"Ledesma, Maia",44100399,"ESEA de Luis Guillón",5,30,"E ECHEVERRIA",1,4
+1545,"Pereyra, Julieta",43672135,"Doctor Francisco Javier Muñiz N°14",5,30,"E ECHEVERRIA",1,1
+2272,"Costa, Iara",42290465,"EES N° 18",5,30,"E ECHEVERRIA",1,1
+1274,"Saucedo, Brian Ezequiel",45323629,"E.E.S. N* 33",5,30,"E ECHEVERRIA",1,1
+1273,"Condori, Brisa Anahi",46947565,"E.E.S. N* 33",5,30,"E ECHEVERRIA",1,1
+1289,"Cancinos, Mateo",47397988,"E.E.S. N* 33",5,30,"E ECHEVERRIA",1,1
+1348,"Giraldes, Valentina",45478980,"Instituto Argentina",5,30,"E ECHEVERRIA",1,1
+1370,"TORRES, Celeste",43721264,"EES N°38",5,30,"E ECHEVERRIA",2,1
+1290,"Cubillas, Agustina",43507691,"E.E.S. N* 33",5,30,"E ECHEVERRIA",2,1
+1483,"Amato, Sofía Antonella","46 017 074","ESEA N°1 de Luis Guillón.",5,30,"E ECHEVERRIA",2,1
+1296,"Vasko, Ludmila",47414741,"E.E.S. N* 33",5,30,"E ECHEVERRIA",4,1
+1369,"IBARRA, FRANCO",43874186,"EES N°38",5,30,"E ECHEVERRIA",4,1
+3104,"Roldan, Agustina",44252254,"Secundaria 14",5,30,"E ECHEVERRIA",5,1
+2716,"cuevas, alfredo",43400489,"EES 4",5,99,"SAN VICENTE",1,2
+2415,"Zalazar, Candela Nicole",44216407,"EES 2",5,99,"SAN VICENTE",2,2
+2653,"ABEL, PAULA NATALIA ALUMINE",44940075,"EES 7",5,99,"SAN VICENTE",3,3
+1792,"Paz, Angel David",45983644,"EES 5",5,99,"SAN VICENTE",4,4
+1551,"Romero, Pablo Luis",45417739,EES9,5,99,"SAN VICENTE",5,2
+1436,"Monti, Tobías Ezequiel",45318935,EES9,5,99,"SAN VICENTE",5,2
+1684,"sarmiento, lucia marlen ailen",44207155,"EES 12",5,99,"SAN VICENTE",6,3
+2660,"Cardozo, Luana",44216438,"EES 6",5,99,"SAN VICENTE",7,2
+2711,"Ramirez Maidana, Rocio Celeste",95275234,"EES 6",5,99,"SAN VICENTE",7,2
+2646,"López, Agustin",44166374,"EES 6",5,99,"SAN VICENTE",7,1
+2714,"Dominguez Collivadino, Valentina Uxia",51700343,"EES 6",5,99,"SAN VICENTE",7,1
+2649,"GONZALEZ, MELANY",44798045,"EEE 501",5,99,"SAN VICENTE",8,3
+3521,"Alves, Agustín",43861593,"Instituto agrotecnico San José",5,99,"SAN VICENTE",9,4
+3200,"Marín, Juan Ignacio",43581938,"Instituto agrotecnico San José",5,99,"SAN VICENTE",9,1
+3314,"Andechaga, María Delfina",43981469,"Instituto San José",5,99,"SAN VICENTE",10,6
+3522,"Maffey, Brisa",43048583,"Instituto San José",5,99,"SAN VICENTE",10,1
+3895,"Espindola, Valentina",43384872,"EES 13",5,99,"SAN VICENTE",11,3
+3891,"Robles, Solange",45299224,"EES 13",5,99,"SAN VICENTE",11,2
+1291,"Gomez, Milagros Ailen",43515305,"San Ignacio de Loyala",5,130,EZEIZA,1,2
+1197,"Ríos, Victoria",44209102,"San Ignacio",5,130,EZEIZA,1,1
+1255,"DENIS, Emiliano Joaquin",44099889,"Instituto Manuel Belgrano",5,130,EZEIZA,1,1
+1488,"Arregui, Melany Lujan",43780479,"E.E.S N°7",5,130,EZEIZA,1,1
+1212,"Cáceres, Edith",94599639,"E.E.S 10",5,130,EZEIZA,1,1
+2497,"Juarez, Jade",45007524,"Media n°2",5,130,EZEIZA,1,1
+1418,"Pereyra, Franco",43911018,"Escuela Secundaria N°14",5,130,EZEIZA,1,1
+2423,"Contreras, Santiago",43911014,"Escuela secundaria N° 7",5,130,EZEIZA,1,1
+1285,"Guerreño, Florencia Micaela",44222138,"Secundaria ? 1 Luciano H valette",5,130,EZEIZA,2,1
+922,"Sosa, Pablo Nicolás",43977425,"Escuela secundaria n°3",5,130,EZEIZA,2,1
+1282,"Bado, Sergio",94983720,"Secundaria 20",5,130,EZEIZA,3,1
+2239,"Orozco, Sofía",44252292,N15,5,130,EZEIZA,3,1
+2294,"Romero, Florencia nahir",43327076,EESN15,5,130,EZEIZA,4,1
+1416,"Carranza, Nayla Yanina",43736065,"Escuela Secundaria N°14",5,130,EZEIZA,4,1
+1195,"Ocampos, Mariana florencia",45007749,"Instituto Manuel belgrano",5,130,EZEIZA,4,1
+1315,"Zalazar, Ariel",44227317,"Secundaria 3",5,130,EZEIZA,5,1
+6625,"GUIGUEZ, Gabriel",44209747,EeS6,6,95,"SAN FERNANDO",1,3
+6584,"Martinez Yozkow, Dante",44.002.306,"EES 6",6,95,"SAN FERNANDO",1,1
+6565,"Arzola, Ludmila",43990988,"E.E.S. Nro 6",6,95,"SAN FERNANDO",2,3
+6582,"Costa, Bianca",44340386,"Escuela de educación secundaria n16",6,95,"SAN FERNANDO",2,2
+6614,"Castillo, Nataly",43598971,"E.E.S n° 6",6,95,"SAN FERNANDO",2,1
+6598,"Giménez Baez, Axel Ivan",46202896,"N°6 jose gervasio artigas",6,95,"SAN FERNANDO",4,5
+6592,"Madruga rojas, Natali",43776349,"EES 16",6,95,"SAN FERNANDO",4,3
+6562,"Vera, Agustina Magalí",42875851,"Escuela de Educación Técnica N°2",6,95,"SAN FERNANDO",5,4
+6599,"Aranda, Daniel",95320135,"Secundaria N°1",6,95,"SAN FERNANDO",6,3
+6633,"Linares, Johansel",4109133,"E.E.S.T n°3",6,95,"SAN FERNANDO",6,3
+6634,"Quipildor, Brian",41874947,"Técnica 2",6,95,"SAN FERNANDO",6,1
+6566,"Yanke, Micaela Belén",43877156,"Técnica N2",6,95,"SAN FERNANDO",7,5
+6604,"porchedda, joaquin",44724953,"numero 23",6,95,"SAN FERNANDO",7,1
+6573,"Díaz Toledo, Pedro Manuel",43522368,"E.E.S.T N2",6,95,"SAN FERNANDO",8,4
+6600,"Burgueño Molinas, Florencia Mabel",44675858,"Eest n2",6,95,"SAN FERNANDO",8,3
+6640,"Gonzalez, Karen",44522268,23,6,95,"SAN FERNANDO",8,1
+7647,"Tabak wolf, Nicolás Jonathan",44512914,"Colegio San Andrés Avelino",6,96,"SAN ISIDRO",1,3
+7644,"Pigni, Priscila",43443281,"San Andrés Avelino",6,96,"SAN ISIDRO",1,2
+7663,"Sanchez, Agustina",45173003,E.E.S21,6,96,"SAN ISIDRO",1,1
+7642,"Konovalov, Victoria",44056997,"San Andrés Avelino",6,96,"SAN ISIDRO",2,3
+7656,"Emiliano, Hermosilla",43356861,"Media 14",6,96,"SAN ISIDRO",2,2
+7655,"Gonzalez, Martina",44132030,"San Andrés Avelino",6,96,"SAN ISIDRO",2,1
+7696,"Loria, Julieta",43522339,"San Andrés avelino",6,96,"SAN ISIDRO",3,3
+7643,"Escalada, Thomas",44055965,"San Andrés Avelino",6,96,"SAN ISIDRO",3,2
+7648,"Del pup, Juan",43668589,"San Andrés Avelino",6,96,"SAN ISIDRO",3,1
+7640,"Romero, Lucila",43992664,"San Andrés Avelino",6,96,"SAN ISIDRO",4,3
+7649,"Zarraga, Maria eugenia",43469385,"San andres avelino",6,96,"SAN ISIDRO",4,2
+7657,"Chiminell, Malena",45038292,"Escuela secundaria N°21",6,96,"SAN ISIDRO",4,1
+6262,"Ottonelli, Candela",44183984,"Instituto Encalada",6,109,"V LOPEZ",1,5
+6281,"Nicolas, Ferreyra",93948020,"La salle Florida",6,109,"V LOPEZ",1,3
+6279,"Futterer, Iara",45072579,Encalada,6,109,"V LOPEZ",2,6
+6256,"Quiroz, Abigail",45478398,"Media 3",6,109,"V LOPEZ",2,2
+6253,"Simonetta, Sofía",43446300,"Emiliano Edgardo Encalada",6,109,"V LOPEZ",3,4
+6255,"Valiente, Luciana",44158345,"La Salle Florida",6,109,"V LOPEZ",3,2
+6288,"Levin, Melisa Florencia",44699142,"La Salle Florida",6,109,"V LOPEZ",3,2
+6260,"Bollici, Ezequiel",43314105,"Lasalle Florida",6,109,"V LOPEZ",4,5
+6263,"Barone, Antonella",45395678,"Emiliano Encalada",6,109,"V LOPEZ",4,3
+6276,"Casal, Facundo",43571453,SB8,6,109,"V LOPEZ",4,1
+6264,"Gimenez, Yamila",51330799,"media 8",6,109,"V LOPEZ",4,1
+3905,"Figueroa, Selene",42056185,"Ees n°5 jorge newbery",7,117,"T DE FEBRERO",1,4
+3058,"pirolo, micaela denise",43720547,"EES 9",7,117,"T DE FEBRERO",1,4
+3058,"pirolo, micaela denise",43720547,"EES 9",7,117,"T DE FEBRERO",1,4
+740,"jerez, loreley",44588270,icea,7,117,"T DE FEBRERO",1,2
+879,"Cánepa, Valentina",46631690,"E.E.S N°2 Bernardino Rivadavia",7,117,"T DE FEBRERO",1,2
+3541,"CORREA QUIROGA, MANUELA EVA",45317817,"E.E.S.N° 21",7,117,"T DE FEBRERO",1,1
+878,"Gómez, Victoria Laura",45739644,"E.E.S N°2 Bernardino Rivadavia",7,117,"T DE FEBRERO",1,1
+3908,"Iglesias coria, Abril agustina",43672375,"Ees n°5 jorge newbery",7,117,"T DE FEBRERO",2,2
+3900,"Martinez, Cristian",45499230,"Ees n°5 jorge newbery",7,117,"T DE FEBRERO",2,2
+3123,"Lujan Catharino, Iara Luna",44486770,EESN10,7,117,"T DE FEBRERO",2,2
+3810,"Sandoval, Uriel",45317735,"E. E. S . N30",7,117,"T DE FEBRERO",2,1
+3549,"parada, Brisa Ailen",45537825,"secundaria n°26",7,117,"T DE FEBRERO",2,1
+3811,"Bazzano, Sofia",45317695,EESN30,7,117,"T DE FEBRERO",2,1
+3514,"denapole, Camila",43873290,"Instituto Nuestra señora de la merced",7,117,"T DE FEBRERO",2,1
+2808,"Gutson, Rodrigo Alejandro",43584815,"Instituto Nuestra Señora de la Merced",7,117,"T DE FEBRERO",2,1
+881,"De Marco, Valentina",46814146,"E.E.S N°2 Bernardino Rivadavia",7,117,"T DE FEBRERO",2,1
+2811,"Agüero, Alexis Nahuel",43584879,"Nuestra senora de la merced",7,117,"T DE FEBRERO",2,1
+877,"Gomez Konic, Paula",47127171,"E.E.S N°2 Bernardino Rivadavia",7,117,"T DE FEBRERO",2,1
+3181,"Merelez, Maria Luján",95322420,"Secundaria Martín Fuero n°10",7,117,"T DE FEBRERO",3,1
+3512,"Vaca, Magali",44142684,"E.E.S N°10",7,117,"T DE FEBRERO",3,1
+3062,"Gentileza, Thomas Matias",46422659,"EES N° 33",7,117,"T DE FEBRERO",4,2
+3088,"Perez, Thiago",47685319,EESN12,7,117,"T DE FEBRERO",4,2
+3940,"Dino, Bianca",44561750,ICEA,7,117,"T DE FEBRERO",4,2
+746,"Orellana, Alanis",44391899,icea,7,117,"T DE FEBRERO",4,1
+2780,"enriquez, oriana",45872019,"ES 20",7,117,"T DE FEBRERO",5,2
+2810,"López, Milagros",44005088,"Ntra. Sra. De la Merced",7,117,"T DE FEBRERO",5,1
+2809,"Cardozo, Gonzalo",43777470,"Instituto nuestra señora de la merced",7,117,"T DE FEBRERO",5,1
+2809,"Cardozo, Gonzalo",43777470,"Instituto nuestra señora de la merced",7,117,"T DE FEBRERO",5,1
+2781,"molina, milagros",46923503,"ES 20",7,117,"T DE FEBRERO",6,2
+1528,"Clavero, Triana Carolina",44862168,"E.E.S. N° 13 José María Bosch",7,117,"T DE FEBRERO",6,2
+3819,"Padilla, Agustin",45042194,"EES N 30",7,117,"T DE FEBRERO",6,1
+3912,"Toto, Facundo",45219334,"E.E S N 30",7,117,"T DE FEBRERO",6,1
+4274,"Rojas, Julia",44791716,"E.S 30",7,117,"T DE FEBRERO",6,1
+4363,"Vicente González, Rodrigo Martín",44217564,"Instituto Ceferino Namuncurá",7,117,"T DE FEBRERO",7,3
+4325,"Vega, Tiara",43253523,"Instituto Ceferino Namuncurá",7,117,"T DE FEBRERO",7,1
+1931,"Marcias, Daiana Noemí",44626437,EESN°18,7,117,"T DE FEBRERO",7,1
+2121,"Quispe, Aldana",50684005,"Secundaria nro18",7,117,"T DE FEBRERO",7,1
+1162,"Benitez, José Maria",43863456,"EESA N 1",7,135,HURLINGHAM,1,7
+781,"Ferreyra, Esteban",43386209,"EES N6",7,135,HURLINGHAM,1,3
+1497,"Blanco, Ezequiel",44302929,"E.E.S 10",7,135,HURLINGHAM,1,2
+4493,"Campos, Belen",45996698,"Leopoldo marechal media n°6",7,135,HURLINGHAM,1,1
+2086,"Corres, Nahiara",46951410,"EES N 5 Alma fuerte número",7,135,HURLINGHAM,1,1
+2688,"Montojo, Milagros",43486223,"EES N°13  Wolf schcolnik",7,135,HURLINGHAM,1,1
+3530,"Alarcón, Candela",46703885,"Ernesto Sábato",7,135,HURLINGHAM,1,1
+1268,"Finamore, Yazmin",44100852,"E.e.s n8",7,135,HURLINGHAM,2,3
+2698,"Mereles, Adriel Julián",44726882,"ESS 2 JUAN LAVALLE",7,135,HURLINGHAM,2,2
+3340,"Coronel, Tomas Cristian",44756100,"ESS 2 JUAN LAVALLE",7,135,HURLINGHAM,2,2
+2228,"Coda, Agustina",44079998,"Nueva era",7,135,HURLINGHAM,2,1
+3534,"Amori, Santiago",45.744.219,"Ernesto Sábato",7,135,HURLINGHAM,2,1
+1331,"Gomez, Iara",44524528,E.E.S.N°16,7,135,HURLINGHAM,2,1
+2611,"Medina velazquez, Lucas emanuel",43993447,EES9,7,135,HURLINGHAM,2,1
+2915,"Bergeot, Leandro",44892961,"EESA N1",7,135,HURLINGHAM,3,7
+1462,"KRENZ, SHEILA",43598149,"ESEA N°1",7,135,HURLINGHAM,3,3
+3531,"Bautista, María del Pilar",46.021.545,"Ernesto Sábato",7,135,HURLINGHAM,3,2
+2252,"Crocco, Marina",47645266,"Nueva era",7,135,HURLINGHAM,3,1
+2201,"Caceres, José",43510022,"Esea N°1",7,135,HURLINGHAM,3,1
+2701,"Pésaro, Rocío Abigail",44793783,"ESS 2 JUAN LAVALLE",7,135,HURLINGHAM,4,6
+3533,"Bustos, Nicolás",45.051.334,"Ernesto Sábato",7,135,HURLINGHAM,4,4
+1949,"Meza, Fabian",43780044,"ESEA N°1",7,135,HURLINGHAM,4,3
+2023,"Casco, Franco Gustavo",44883999,"escuela especial hurlingham",7,135,HURLINGHAM,4,1
+1233,"Rocio, Sampaio",44756071,"EEST 2.  República del Perú",7,135,HURLINGHAM,5,4
+2155,"Gamarra, Evelyn",42239249,"Escuela de educación secundaria n 3",7,135,HURLINGHAM,5,2
+1505,"Gonzalez Rojas, Leonela",44833844,"Leonardo Rosales",7,135,HURLINGHAM,5,1
+2223,"Nuñez, Ulises Bahiano","43 384 419","Nueva Era",7,135,HURLINGHAM,5,1
+3140,"Vila Barbará, Lucas",46569250,"EEST N2",7,135,HURLINGHAM,5,1
+1267,"Romay, Nahuel",43844679,"EES N 8",7,135,HURLINGHAM,5,1
+3532,"Di Matteo, Martín",46.091.775,"Ernesto Sábato",7,135,HURLINGHAM,5,1
+2703,"Quinteros, Candelaria",43587714,"ESS 2 JUAN LAVALLE",7,135,HURLINGHAM,5,1
+3056,"Guillot, Ezequiel",44726886,"E. E. S. N11",7,135,HURLINGHAM,5,1
+1267,"Romay, Nahuel",43844679,"EES N 8",7,135,HURLINGHAM,5,1
+3055,"Gutiérrez, Mia",44587567,"ES N 11",7,135,HURLINGHAM,6,8
+1503,"Paez, Magali",44304493,"EES N 10 Leonardo Rosales",7,135,HURLINGHAM,6,2
+2707,"Soltelo, Daladier Aaron",45286398,"ESS 2 JUAN LAVALLE",7,135,HURLINGHAM,6,2
+1503,"Paez, Magali",44304493,"EES N 10 Leonardo Rosales",7,135,HURLINGHAM,6,2
+3690,"Rojas, Sofia",44868845,"E.E.S.N 1",7,135,HURLINGHAM,6,1
+1754,"Owdiejczuk, JOSE LUIS",43663654,"E.E.S.A. N°1 MADRE TERESA DE CALCUTA",7,135,HURLINGHAM,6,1
+1231,"Torres, Iara Mailen",46208878,"EEST N°2  República del Perú",7,135,HURLINGHAM,6,1
+3836,"Frías, Thiago",47171227,"Secundaria 14",7,135,HURLINGHAM,6,1
+3467,"Gonzalez, Juan",44888747,"EES N°25",7,135,HURLINGHAM,6,1
+3536,"Ojeda, Carla",43.870.930,"Ernesto Sábato",7,135,HURLINGHAM,7,5
+2696,"Alegre, Milagros Agustina",44533123,"ESS 2 JUAN LAVALLE",7,135,HURLINGHAM,7,3
+2642,"Caballero, Ian",43396604,"E.S n3",7,135,HURLINGHAM,7,2
+3833,"Lucchetta, Franco",43598205,EESN18,7,135,HURLINGHAM,7,2
+4595,"Pérez, Nicolás",45151013,"EES N° 25",7,135,HURLINGHAM,7,2
+1506,"Román López, Guadalupe",95530672,"EES 10",7,135,HURLINGHAM,7,2
+3478,"Nuñez, Alan",43014235,"E.E.S N8",7,135,HURLINGHAM,7,1
+2547,"Farinetti, STELLA",18326264,"EES N°  8 y EES N°15",7,135,HURLINGHAM,7,1
+2091,"Navarro, Ludmila",43.598.274,"ESEA N°1",7,135,HURLINGHAM,7,1
+1755,"PACO NINACHI, EMANOEL ABAD",94776974,"E.E.S.A. N°1 MADRE TERESA DE CALCUTA",7,135,HURLINGHAM,7,1
+3537,"Schwanek, Aramis",43.743.433,"Ernesto Sábato",7,135,HURLINGHAM,8,8
+1495,"Vizgarra, Franco",43863480,"ESN°10 Leonardo Rosales",7,135,HURLINGHAM,8,2
+2636,"Wasilewicz, Daniel ezequiel",46757167,"E.E.S N°21",7,135,HURLINGHAM,8,2
+1552,"Campos, Florencia Soledad",47160920,E.E.S.T.N°2,7,135,HURLINGHAM,8,1
+2620,"Avalos, Damian",94742083,"EES N°3",7,135,HURLINGHAM,8,1
+4313,"Quinteros, Lucas",43901483,EESN°1,7,135,HURLINGHAM,8,1
+3515,"Saucedo, Marcos",43178111,"É.E.S.A N1 Madre Teresa de Calcuta",7,135,HURLINGHAM,9,4
+3857,"Coda, Valentina",47229253,"Nueva era",7,135,HURLINGHAM,9,3
+2606,"Quiroga, Matias facundo",45752614,"Es N10",7,135,HURLINGHAM,9,2
+3204,"Torres, Yamila Liliana",43521142,"EES N°3",7,135,HURLINGHAM,9,1
+1756,"SARLINGA, MELANIE SOFIA RUTH",45612671,"E.E.S.A. N°1 MADRE TERESA DE CALCUTA",7,135,HURLINGHAM,9,1
+3079,"Zarate, Magalí",45747655,"ES 11",7,135,HURLINGHAM,9,1
+830,"Vizcarra, Matias",44304108,"EES N 6. Leopoldo Marechal",7,135,HURLINGHAM,9,1
+3227,"Chazarreta, Milagros Ayelén",40016899,"ESS 2 JUAN LAVALLE",7,135,HURLINGHAM,9,1
+3800,"Garcia, Paula",43252028,"Juan lavalle n°2",7,135,HURLINGHAM,10,6
+4514,"Antonelli, Priscila",42877476,"ees 8",7,135,HURLINGHAM,10,3
+2613,"Argibay, Quimey",45286388,"EES N°10  Leonardo Rosales",7,135,HURLINGHAM,10,1
+2613,"Argibay, Quimey",45286388,"EES N°10  Leonardo Rosales",7,135,HURLINGHAM,10,1
+2101,"Suárez, Milagros",45219185,"ESEA N°1",7,135,HURLINGHAM,10,1
+3872,"RAZQUIDO, PAULO",45623150,"EES N| 20",7,135,HURLINGHAM,10,1
+6116,"ROMAN, Lucas",95031132,"Secundaria n°15",8,71,MERLO,2,11
+6215,"Giacone, Ludmila",44531783,"Cec 802",8,71,MERLO,2,5
+6089,"Lopez, Leandro",43600901,"E.E.S. N°4",8,71,MERLO,2,4
+6184,"Gomez, Pablo Agustin",42413236,"Anexo 19",8,71,MERLO,2,3
+6093,"Otazo, Mariana",42631820,"EES N4",8,71,MERLO,2,2
+6094,"Merlo, Gabriel",42631876,"E.E.S.N 4",8,71,MERLO,2,2
+6094,"Merlo, Gabriel",42631876,"E.E.S.N 4",8,71,MERLO,2,2
+3600,"ZURITA, CAMILA",43991539,"EES Nª11",8,100,MORON,4,2
+3604,"YOBANI, JEREMIAS",44005925,"EES Nª11",8,100,MORON,4,2
+3597,"CHIAPETTA, JANO",42341690,"EES Nª11",8,100,MORON,4,1
+3599,"RODRIGUEZ, SHARON",44005849,"EES Nª11",8,100,MORON,4,1
+3603,"GUTIERREZ, NOELIA",43977795,"EES Nª11",8,100,MORON,4,1
+3601,"BARRIENTOS, FACUNDO",43587402,"EES Nª11",8,100,MORON,4,1
+7146,"Rivero, Bahiana Nicole",44484208,"Media 2",9,73,MORENO,1,9
+7140,"Acosta, Miqueas",45612010,502,9,73,MORENO,1,2
+7048,"Alice, Lucia Belen",45312515,"EES Nro 11",9,73,MORENO,1,1
+7141,"Cadogan, Angel",94599011,"Ees 53",9,73,MORENO,1,1
+7076,"Tejada, Cristian",45627122,"ees 46",9,73,MORENO,1,1
+7059,"Pirez, Tomas Valentin",45004849,"EES Nro 11",9,73,MORENO,2,5
+7234,"Buera, Zoe",45541729,"Marina Vilte",9,73,MORENO,2,4
+7145,"Samudio, Andrés",45931031,"Media 7",9,73,MORENO,2,1
+7166,"Koczwara, Ambar",48056111,"Media 2",9,73,MORENO,3,5
+7071,"Brizuela, Jonathan",95247696,"Media 7",9,73,MORENO,3,2
+7212,"Abalos, Cecilia",46193448,44,9,73,MORENO,3,2
+7052,"De Martino, Tiara Luz",46950972,"EES Nro 11",9,73,MORENO,3,1
+7158,"Vera, Jose",95407386,71,9,73,MORENO,3,1
+7092,"Mauriño, Magali",46344985,"Media 7",9,73,MORENO,4,8
+7151,"Corvalan, Lautaro",44797749,"Marina Vilte - Medía 2",9,73,MORENO,4,2
+7155,"Hartfiel, Marcos",44599559,"Marina vilte",9,73,MORENO,4,1
+7063,"Vila, Matías Lucio",43804578,"EES Nro 11",9,73,MORENO,5,5
+7130,"da Silva, Malena",45867903,"Media 2 Marina vilte",9,73,MORENO,5,3
+6970,"Cepeda, Rodrigo Gonzalo",43584577,"E.E.S. N°39",9,73,MORENO,5,3
+7079,"Fernandez, Melany",44423267,"Media 7",9,73,MORENO,6,2
+7178,"Figueroa, Ailin",45004954,"E.S 44",9,73,MORENO,6,2
+7198,"Guedez, Naiara",44254311,"Marina vilte n2",9,73,MORENO,6,2
+7176,"Cainzos, Lionela",47065413,"Secundaria 28",9,73,MORENO,6,1
+7196,"Fernandez, Thiago",47592092,71,9,73,MORENO,6,1
+7154,"González, Poggi, Juan Salvador",44821525,"Media 2",9,73,MORENO,7,4
+7152,"Giménez, Tomás",47461592,"E.E.S N°28",9,73,MORENO,7,2
+7073,"Mauriño, Luciana",45541598,"MEDIA 7",9,73,MORENO,7,2
+7157,"Novoa, Delfina",43405820,"Julio cortázar",9,73,MORENO,7,1
+7153,"Avellaneda, Pablo",44749692,46,9,73,MORENO,7,1
+7055,"Casares, Lautaro Ezequiel",45285912,"EES Nro 11",9,73,MORENO,7,1
+7077,"Mendoza, Tomás",45613013,"Media 7",9,73,MORENO,8,3
+7239,"Ortiz, Hugo",44797857,71,9,73,MORENO,8,1
+7238,"Benitez, Milagros ailin",45495869,"Media 7",9,73,MORENO,8,1
+7180,"González Gómez, Lucas",44830193,"Ees 2 marina Vilte",9,73,MORENO,9,3
+7195,"Lospennato, Lautaro",46686452,"Ees 44",9,73,MORENO,9,2
+7301,"Cordova, María Luz",41581074,75,9,73,MORENO,9,2
+7183,"Gómez, Agostina",51337158,"Ees 71",9,73,MORENO,9,1
+2857,"Aguilera, Lucia",44893627,"Instituto Alejandro Bunge",9,131,"SAN MIGUEL",1,8
+2801,"Cantero, Milagros",43308057,"Héroes de malvinas",9,131,"SAN MIGUEL",1,6
+2850,"Zárate, Jimena",43261950,"Ees n13",9,131,"SAN MIGUEL",1,3
+2805,"Benitez, Nazarena Belén",42690356,"EES N°3 ""HÉROES DE MALVINAS""",9,131,"SAN MIGUEL",1,2
+2978,"Figueredo, Octavio",45427795,"Ees 4",9,131,"SAN MIGUEL",1,2
+2964,"Fernández, Christian",43504773,"Ees 3",9,131,"SAN MIGUEL",2,7
+2973,"Pasimo, Ludmila",43052483,"Madre Teresa",9,131,"SAN MIGUEL",2,5
+1489,"Sosa, Isaias Alberto",42905915,"E.s 23",9,131,"SAN MIGUEL",2,3
+2943,"Mareco, Selene",44131878,"María rosa mística",9,131,"SAN MIGUEL",2,2
+1224,"Carballo, Santiago",47745721,"Número 10 Agustín tosco",9,131,"SAN MIGUEL",2,1
+2922,"Piazza, Martina",44626535,"Madre Teresa",9,131,"SAN MIGUEL",3,5
+3018,"Ortiz, Elias",6627017,"E.ES número 3 héroes de Malvinas",9,131,"SAN MIGUEL",3,3
+2894,"Godoy, Gina",44600039,"Ees N 7 Nacional",9,131,"SAN MIGUEL",3,3
+2539,"Maiten, Müller",43460975,"Colegio Madre Teresa",9,131,"SAN MIGUEL",3,3
+2996,"zaracho, jorge",46192679,10,9,131,"SAN MIGUEL",3,2
+2904,"Schonberger, Jeremy",44793551,"Instituto alejandro bunge",9,131,"SAN MIGUEL",3,1
+2889,"Salinas, Agostina",44547820,"Jorge Adur n19",9,131,"SAN MIGUEL",3,1
+2575,"Galarza, Celeste",45674315,"Colegio Madre Teresa",9,131,"SAN MIGUEL",4,5
+2807,"Figueredo Areco, Denis Mauricio",95039969,Media,9,131,"SAN MIGUEL",4,4
+1343,"Olarte, Katia",44358364,"Ees n 4",9,131,"SAN MIGUEL",4,4
+2902,"Violini, Daira",46753560,Bunge,9,131,"SAN MIGUEL",4,2
+2435,"Morel Acuña, Carlos Ramon",94.514.471,"E E S N° 4",9,131,"SAN MIGUEL",4,1
+2586,"bazan, elian",44792521,"Colegio Madre Teresa",9,131,"SAN MIGUEL",4,1
+2899,"Montenegro, Alejandra",44397709,"Rosa mistica",9,131,"SAN MIGUEL",4,1
+2853,"Quipildor, Emily Rocio Milagros",43261747,23,9,131,"SAN MIGUEL",5,7
+2675,"Castillo, Isaias",43397339,"E.E.S.n 23",9,131,"SAN MIGUEL",5,3
+2215,"Infesta, Celeste",43083082,"Sargento Cabral N°8",9,131,"SAN MIGUEL",5,2
+2802,"Lescano, Máximo",44301562,"E.E.S N°3 ""Héroes deMalvinas""",9,131,"SAN MIGUEL",5,2
+2872,"Armando farinon, Sol Abril",45674005,"Madre Teresa",9,131,"SAN MIGUEL",5,1
+2673,"Castillo, Joel",43397340,"E.E.S.n 23",9,131,"SAN MIGUEL",6,7
+2873,"Ortiz Dávalos, Erica Carolina",95108623,"Juana Manso",9,131,"SAN MIGUEL",6,3
+2939,"Aguilar, Brisa",44096190,"Ees 37",9,131,"SAN MIGUEL",6,3
+1496,"González, Gustavo Miguel",44712069,"E.E.S.n 23",9,131,"SAN MIGUEL",6,1
+2871,"Acosta chico, Mariano",44764226,"Ees 7",9,131,"SAN MIGUEL",6,1
+2884,"Ponce, Victoria",45892321,BUNGE,9,131,"SAN MIGUEL",6,1
+1886,"Garcia, Yael",48232873,"Rosario vera peñalosa",9,132,"JOSE C. PAZ",1,4
+1880,"Rocio, Gerez",43595643,"E.E.S. N9 Antonio Berni",9,132,"JOSE C. PAZ",1,3
+1890,"Bernal Martinez, Leonardo Ezequiel",95320259,"Media 3 Sol De Mayo",9,132,"JOSE C. PAZ",1,3
+1889,"Montenegro, Ludmila",44785535,"Rosario vera peñaoza",9,132,"JOSE C. PAZ",1,1
+1911,"Sánchez, Marlén",44002135,"Secundaria 32",9,132,"JOSE C. PAZ",2,5
+1789,"Acuña, Agustín",44214342,"E.E.S.9 Antonio Berni",9,132,"JOSE C. PAZ",2,4
+2047,"Argüello, Joel",44884595,"Ees 9",9,132,"JOSE C. PAZ",2,1
+1530,"Ruiz, Mia",47095228,"ES 9",9,132,"JOSE C. PAZ",3,2
+1785,"Lopez, Esteban",45149128,"E.E.S Nro 9 Antonio Berni",9,132,"JOSE C. PAZ",3,2
+1778,"Rojas, Brenda",46273588,"EES N29",9,132,"JOSE C. PAZ",3,1
+2007,"Ortiz, Lucila",47014389,35,9,132,"JOSE C. PAZ",3,1
+1805,"Ruiz, Priscila",44.884.138,"Don José altube media 8",9,132,"JOSE C. PAZ",3,1
+2012,"Maufre, Emily",47339701,"E.E.S N°9 Antonio Berni",9,132,"JOSE C. PAZ",3,1
+2002,"Mastroianni, Micaela",44340747,"Ees 32",9,132,"JOSE C. PAZ",3,1
+1824,"Peralta Frias, Milagros Candelaria",42886598,"Media 8",9,132,"JOSE C. PAZ",4,2
+1985,"Suarez, Sofia",47.116.663,"José Carlos granado",9,132,"JOSE C. PAZ",4,2
+1827,"astrada, Tiziana Sofia",45309462,"media 8",9,132,"JOSE C. PAZ",4,1
+1993,"Rodriguez, Princesa",46634242,28,9,132,"JOSE C. PAZ",4,1
+1991,"Bogado, Milagros",45737811,"E.E.S.N°9 ANTONIO BERNI",9,132,"JOSE C. PAZ",4,1
+1956,"Gattari, Enzo",43908326,"E.S.B N 28",9,132,"JOSE C. PAZ",5,4
+1777,"Benitez, Erika",46421534,"EES N29",9,132,"JOSE C. PAZ",5,3
+1961,"Viana, Marcos",44750866,"media 8",9,132,"JOSE C. PAZ",5,1
+1763,"Cabrera, Azul",46688029,"EES N29",9,132,"JOSE C. PAZ",6,1
+3499,"Van de Velde, Julieta",43662992,"Escuela Estatal Número 7",9,133,"MALVINAS ARG",1,1
+3209,"Achaval, Lautaro",43666116,"EEST N° 1 ""Corbeta Uruguay""",10,57,"LAS HERAS",1,2
+3217,"Pérez, Micaela",43454580,"E.e.s.n°2 René Favaloro",10,57,"LAS HERAS",1,2
+3215,"Paseri Cambiasso, Alegría",46.068.822,"E.E.S.T N°1 ""Corbeta Uruguay""",10,57,"LAS HERAS",1,1
+3218,"Peralta, Juana",46567525,"Tecnica""corbeta uruguay""",10,57,"LAS HERAS",1,1
+3359,"Gonzalez Osterrieth, Santiago",43454582,"Ees N1",10,57,"LAS HERAS",1,1
+3211,"Miranda, Franco",42175858,"Escuela secundaria media N°1 ""Paula Albarracín""",10,57,"LAS HERAS",1,1
+3369,"Fernández, Lucila",45039300,"Rene favaloro n2",10,57,"LAS HERAS",1,1
+3210,"Santizo, Luciano",44166027,"E.E.S.T ""Corbeta Uruguay""",10,57,"LAS HERAS",1,1
+3220,"Caviglia, Malena",44641519,"E.E.S.T N  1 ""corbeta uruguay""",10,57,"LAS HERAS",1,1
+3220,"Caviglia, Malena",44641519,"E.E.S.T N  1 ""corbeta uruguay""",10,57,"LAS HERAS",1,1
+3359,"Gonzalez Osterrieth, Santiago",43454582,"Ees N1",10,57,"LAS HERAS",1,1
+2828,"Dubreuil, Azul",43506612,"San José",10,67,"MARCOS PAZ",1,3
+2821,"Colombo, Nicolas",44049427,"San jose",10,67,"MARCOS PAZ",1,2
+2824,"Gonzalez, Belen",44416631,EESN°2,10,67,"MARCOS PAZ",1,2
+2823,"Roldan, Elias",44169123,"E.E.S N°2",10,67,"MARCOS PAZ",1,1
+2825,"Schefer, Maria Lujan",43597193,"San José",10,67,"MARCOS PAZ",1,1
+2820,"Maiza, Sofía",43597140,"San José",10,67,"MARCOS PAZ",1,1
+7554,"Ferreira, Gaston",43307075,Eesn7,10,93,"S A DE GILES",1,4
+7546,"taramasco, ezequiel",43867438,"escuela secundaria n7  ramon zaranich ext 2070",10,93,"S A DE GILES",2,7
+7546,"taramasco, ezequiel",43867438,"escuela secundaria n7  ramon zaranich ext 2070",10,93,"S A DE GILES",2,7
+7551,"ferreyra, paola",43260528,"e.e.s n5",10,93,"S A DE GILES",3,4
+7587,"Gonzalez, Katherine",42364616,"e.e.s n5",10,93,"S A DE GILES",3,1
+7589,"Tellez, Elmer",94742353,E.E.S.N3,10,93,"S A DE GILES",4,5
+7583,"Barrientos, Milagros",44047814,"E.E.S N1 ""30 de noviembre""",10,93,"S A DE GILES",5,3
+7563,"Rios Moreira, Iriel",44518969,"E.E.S. N°1",10,93,"S A DE GILES",5,2
+7544,"caballero, marcelino",45293051,"escuela numero 6",10,93,"S A DE GILES",6,2
+7582,"Biglia, Dora",46101824,"E.E.S. N°8",10,93,"S A DE GILES",7,2
+2179,"Cura, Ezequiel",43852642,"Escuela Secundaria N°1",10,101,SUIPACHA,1,8
+2234,"Marchegiani, María Luján",45293039,"Nuestra Señora del Carmen",10,101,SUIPACHA,1,5
+2310,"Cappucci, Micaela",44378031,"Instituto San Luis",10,101,SUIPACHA,1,4
+2311,"Burnes, Micaela",44590154,"Instituto san luis",10,101,SUIPACHA,1,3
+2262,"Indurain, Nicolás",44378053,"Instituto privado San Luis",10,101,SUIPACHA,1,1
+1852,"Lobas, Pedro",44378086,"Instituto Privado San Luis",10,101,SUIPACHA,1,1
+1597,"Olivera, Aramis",44378071,"Escuela técnica N1",10,101,SUIPACHA,1,1
+2267,"Gonzalez, Lorenzo",44590198,"Colegio Nuestra Señora del Carmen",10,101,SUIPACHA,1,1
+2275,"ADRIEL, AXEL FERNANDO",44378043,"ESCUELA SECUNDARIA N°2 ""BARRIO LAS 14 PROVINCIAS""",10,101,SUIPACHA,1,1
+2190,"Falcan, Catalina",45293080,"Nuestra Señora del Carmen",10,101,SUIPACHA,5,2
+6396,"Casuriaga, Kiani",95335856,"E.E.S.A N°1",11,15,CAMPANA,1,5
+6400,"Fornari, Martina",45034694,"EES NRO 3",11,15,CAMPANA,1,3
+6417,"Albornoz, Camila",44263332,"Escuela secundaria 1",11,15,CAMPANA,1,3
+6391,"Piñon, Giuliana",46556796,"E.E.S 17",11,15,CAMPANA,1,2
+6413,"Astorga, Kevin",44167370,"EES Nro 3",11,15,CAMPANA,1,2
+6389,"Alarcon, Lucia",44.167.414,"EES n8",11,15,CAMPANA,1,2
+6358,"Cobreros, Matias manuel",42627314,E.E.S.N°2,11,15,CAMPANA,1,2
+6367,"Diareys, Martina",45633828,"Media 1",11,15,CAMPANA,1,2
+6378,"Gutierrez, Maximo",46944521,"EESA N1",11,15,CAMPANA,1,1
+6379,"Ferreyra, Camila",45.032.773,"E.E.S.A 1",11,15,CAMPANA,1,1
+6365,"Ballesteros, Brisa",46393494,"E.E.S 17",11,15,CAMPANA,1,1
+6369,"Morales, Sasha",45034509,"Secundaria N°1",11,15,CAMPANA,1,1
+6402,"Ferreyra, Valentina Ailen",45520653,"E.E.S NRO 3",11,15,CAMPANA,1,1
+6414,"Palomero Ibarra, Mirian",94183732,"EES n8",11,15,CAMPANA,1,1
+3364,"De la cruz, Julieta",43247645,EESN1,11,31,"E DE LA CRUZ",0,1
+6456,"Baldez, Tatiana",42972341,EES9,11,47,ZARATE,1,1
+2097,"Medina, Camila",44831362,"E.e.s n°4",13,22,COLON,1,5
+2097,"Medina, Camila",44831362,"E.e.s n°4",13,22,COLON,1,5
+2097,"Medina, Camila",44831362,"E.e.s n°4",13,22,COLON,1,5
+2090,"Alvarado, Kevin",44415587,E.E.S.n4,13,22,COLON,1,3
+2090,"Alvarado, Kevin",44415587,E.E.S.n4,13,22,COLON,1,3
+2090,"Alvarado, Kevin",44415587,E.E.S.n4,13,22,COLON,1,3
+2111,"Tagliavini, María Luján",45412890,E.E.S.N4,13,22,COLON,1,2
+2111,"Tagliavini, María Luján",45412890,E.E.S.N4,13,22,COLON,1,2
+2092,"Bruno, Mariano",45222201,EESN4,13,22,COLON,1,1
+2093,"Puyó, Gabriel",45.633.594,Eesn4,13,22,COLON,1,1
+2092,"Bruno, Mariano",45222201,EESN4,13,22,COLON,1,1
+2093,"Puyó, Gabriel",45.633.594,Eesn4,13,22,COLON,1,1
+2092,"Bruno, Mariano",45222201,EESN4,13,22,COLON,1,1
+1151,"Llace, Analia",25076037,"Coordinadora Salto",13,66,SALTO,0,1
+5521,"Folguera, Pilar",43522967,"San Martín",13,66,SALTO,2,1
+3077,"Blazevich, Ana Paula",43865373,"San Jose",13,66,SALTO,2,1
+6362,"Carrizo, Marisol",43.522.971,EESN6,13,66,SALTO,2,1
+5497,"Terzaghi Zacchino, Ana Vera",46.939.845,E.E.S.N°2,13,66,SALTO,4,1
+2036,"Rossi, María Graciela",17273967,"Coordinadora Rojas",13,89,ROJAS,0,1
+3809,"Melo, Loyrdes",44255540,EETN1,13,89,ROJAS,1,1
+5596,"Cabaña, Aime",43801801,EESN2,13,89,ROJAS,1,1
+4306,"Cacciamani, Valentina",43732660,Ees1,13,89,ROJAS,1,1
+4250,"Irazoqui, Alvaro",44265434,ENSNA,13,89,ROJAS,2,5
+4624,"Andreoli, Morena",44265407,EESn6,13,89,ROJAS,2,1
+4204,"Endrizzi, Jacinta",44667111,"Colegio San Jose",13,89,ROJAS,2,1
+4552,"Villarruel, Uriel",44265429,"Secundaria 5",13,89,ROJAS,3,1
+4625,"Farias, Milagros",44265477,E.E.S.N°6,13,89,ROJAS,3,1
+4637,"Banegas, Julia",45501573,"Secundaria 4",13,89,ROJAS,3,1
+4209,"Maggiolo blanco, Martin",44265437,"Colegio san jose",13,89,ROJAS,4,1
+4207,"Cuesta, Francisco",44785902,"Colegio San José",13,89,ROJAS,5,3
+4285,"Espíndola, Lucía",45815891,"EEST N°1",13,89,ROJAS,5,1
+4303,"Garcia, Celeste",44048120,EES1,13,89,ROJAS,6,3
+4635,"Rivero, Emilio José",43866185,"E.E.S N°4",13,89,ROJAS,6,2
+4286,"Gaynor, Victoria",45501587,EESTN°1,13,89,ROJAS,6,1
+4281,"Acosta, Rocío",43615032,EESN°3,13,89,ROJAS,6,1
+5326,"De araquistain, Pedro",44536116,Eas,14,35,"G ARENALES",1,3
+5288,"Martin, Cándida",43514028,"Instituto Nuestra Señora",14,35,"G ARENALES",1,1
+5302,"Carnaroglio, Lourdes",43258059,"Escuela San Francisco de Asis",14,35,"G ARENALES",1,1
+5337,"Mechedze, Karen",43798787,"E.S. N°3",14,35,"G ARENALES",1,1
+5343,"Cura, Lucía",45521025,"E.E.S.N 5°",14,35,"G ARENALES",2,7
+5291,"Seratto negrini, Francisco",43866193,"EAS ferre",14,35,"G ARENALES",2,1
+5322,"cabrera, diamela",46.006.290,e.e.s.n·1,14,35,"G ARENALES",2,1
+5285,"Pilar, Cases",43907266,Isga,14,35,"G ARENALES",3,3
+5305,"Cárdenas, Daniela",44287265,"ESFA 4206",14,35,"G ARENALES",3,2
+5296,"Fuhr, Priscila",43196756,EESN2,14,35,"G ARENALES",3,1
+5311,"Galante, Malena",45224719,"E s n° 4",14,35,"G ARENALES",3,1
+5327,"Franco, Valentin",44268236,"EES N°1",14,35,"G ARENALES",3,1
+5295,"Rebilla, Lucila",43258028,"Escuela San Francisco de Asis",14,35,"G ARENALES",4,4
+5308,"Ledesma, Valentin",44930375,"Nuestra señora",14,35,"G ARENALES",4,3
+5312,"Martínez, Lara",43258065,"Ees N°4",14,35,"G ARENALES",4,1
+5323,"Ferrarese, Maria Paz",44335012,I.S.G.A,14,35,"G ARENALES",5,6
+5317,"Rosales, Valentina",46369365,"San francisco de asis",14,35,"G ARENALES",5,1
+5313,"Gabarrella, Francisco",43196755,"EESN N²",14,35,"G ARENALES",5,1
+5294,"Dallocchio, Catalina",44759058,Isa,14,35,"G ARENALES",6,4
+5332,"Munafó, Priscila",42619793,"Dr. René Favaloro",14,35,"G ARENALES",6,2
+5342,"Rodríguez, Micaela",44268230,"José Manuel estrada",14,35,"G ARENALES",6,2
+5304,"Luana, Palma",45569669,"Escuela Secundaria N3",14,35,"G ARENALES",6,1
+5328,"Miranda, Martín",43464288,"EES N5",14,35,"G ARENALES",6,1
+4651,"Perez, Paulo",41954296,"Media 4",14,42,"G PINTO",1,3
+4653,"Rossini Diz, Juana",44489871,"Don Sixto Acosta",14,42,"G PINTO",1,1
+4668,"Amado viola, Gino omar",43851484,"Escuela secundaria numero 4",14,42,"G PINTO",2,3
+4670,"Trillo, Esteban",45577217,"Escuela Técnica N° 1",14,42,"G PINTO",2,3
+4665,"Martín, Nuria",44339911,"Escuela secundaria n°4 ""Otto Pascual La Falce""",14,42,"G PINTO",2,2
+4657,"Dadich, Milagros",44489854,"Don Sixto Acosta N1",14,42,"G PINTO",3,3
+4658,"Re, Salome",43512286,ESN4,14,42,"G PINTO",3,3
+4657,"Dadich, Milagros",44489854,"Don Sixto Acosta N1",14,42,"G PINTO",3,3
+4661,"Ponce, Maico",44858486,"Escuela N°5",14,42,"G PINTO",3,1
+4686,"Ochoa, Priscila",44339902,Esn5,14,42,"G PINTO",4,5
+4672,"Filipo, Lambertucci",45496402,"Escuela normal n4",14,42,"G PINTO",4,1
+4681,"Garnica, Paz",44339931,"Escuela de educación secundaria N°4",14,42,"G PINTO",5,7
+4708,"garcia, magali",44339963,"escuela secundaria nº2 coronel granada",14,42,"G PINTO",5,1
+4683,"Rodríguez, Juana",44489881,"Escuela secundaria n°1",14,42,"G PINTO",5,1
+4703,"lucero, nicolas",42677748,"escuela secundaria nº1 fray luis beltran",14,42,"G PINTO",5,1
+4692,"Schenck, Nicolas",44599426,"Es 4",14,42,"G PINTO",6,4
+4696,"Araujo, Demian",45577252,EESTN1,14,42,"G PINTO",6,1
+4693,"Lagomarcino, Clara",44043302,esn5,14,42,"G PINTO",6,1
+6329,"Barreiro DOrsi, Antonio",44649228,"EES N°1",14,48,"G VIAMONTE",1,3
+6080,"Guastelli, Jeronimo",44649281,"Escuela Técnica N°1 Ejercito Argentino",14,48,"G VIAMONTE",1,2
+6246,"Orsi, Paulina",43269657,INSG,14,48,"G VIAMONTE",1,1
+6323,"AREVALO, CESAR",44414754,"EEST N°1",14,48,"G VIAMONTE",1,1
+6252,"Rusconi, Lucia",44.649.282,Normal,14,48,"G VIAMONTE",2,5
+6232,"Tángaro, Martina",44414721,"San José",14,48,"G VIAMONTE",2,2
+6230,"Rumi, Giuliana",43972970,INSG,14,48,"G VIAMONTE",3,3
+6339,"Monteverdi, Lara",44649257,"EES N°1",14,48,"G VIAMONTE",3,2
+6339,"Monteverdi, Lara",44649257,"EES N°1",14,48,"G VIAMONTE",3,2
+6349,"Vera, Andreína",44417666,"EEST N°1",14,48,"G VIAMONTE",3,1
+5831,"Ramirez, Ariel",46269910,"CEPT 21",14,48,"G VIAMONTE",4,3
+6337,"Medina, Deborah",43853244,"EES N°1",14,48,"G VIAMONTE",4,2
+6237,"Trejo, Elian",43972965,"Instituto nuestra señora de la guardia",14,48,"G VIAMONTE",4,2
+6235,"Bavastro, Leonela",44562156,INSG,14,48,"G VIAMONTE",5,4
+6336,"Lopez, Santiago",44414751,"Colegio San Jose",14,48,"G VIAMONTE",6,4
+6245,"Armani, Jeremias",45851156,C.E.P.T,14,48,"G VIAMONTE",6,1
+4061,"Insua, Catalina",44362178,Marianista,14,53,JUNIN,1,5
+4114,"Di Prinzio, Malena",43589196,"Escuela secundaria n14",14,53,JUNIN,1,2
+4096,"Said, Joaquín",44049646,"San Jorge",14,53,JUNIN,1,1
+4089,"Sánchez, Iara",43589114,Normal,14,53,JUNIN,1,1
+4221,"Pederzolli, Julieta",45428998,"E.E.S N11",14,53,JUNIN,1,1
+4040,"Falcón, Franco",45569429,"Padre Respuela",14,53,JUNIN,1,1
+4077,"Chale, Mora",45189155,"Instituto secundario padre respuela",14,53,JUNIN,2,2
+4110,"Platel, Macarena",45176294,"E.E.S n° 14",14,53,JUNIN,2,2
+4069,"Kiernan, Lucas",44.490.342,"Secundaria 22",14,53,JUNIN,2,1
+4025,"Acosta, Floriana",44358231,Normal,14,53,JUNIN,2,1
+4108,"Manes, Noel",43589166,EESN1,14,53,JUNIN,2,1
+4035,"Farias, lucia",43738032,"San Jorge",14,53,JUNIN,2,1
+4186,"Palmieri, Ramiro",44930454,"San ignacio",14,53,JUNIN,3,2
+4026,"Iparraguirre, Tomas",43657208,"Padre respuela",14,53,JUNIN,3,2
+4124,"Tuñón, Santiago Fabián",43738076,"San Jorge",14,53,JUNIN,3,2
+4050,"Dalponte, Milena",44418257,"Escuela secundaria n12 ""Héroes De Malvinas""",14,53,JUNIN,3,1
+4066,"Santarsieri, Felipe",44700661,Marianista,14,53,JUNIN,3,1
+4188,"Guaita, Belen",43660294,N°6,14,53,JUNIN,3,1
+4065,"Scandolera, Sol ana",44490243,Marianista,14,53,JUNIN,4,3
+4027,"Felix Gimenez, Pilar",44322890,"San Ignacio de Loyola",14,53,JUNIN,4,3
+4032,"Mendiburu Frasnedo, Martín",51702450,"Secundaria San Jorge",14,53,JUNIN,4,2
+4031,"Camino, Rocio",43179527,Normal,14,53,JUNIN,4,1
+4008,"Asunción, Delfor",43864778,"Parroquial San Ignacio de Loyola",14,53,JUNIN,5,6
+4008,"Asunción, Delfor",43864778,"Parroquial San Ignacio de Loyola",14,53,JUNIN,5,6
+4036,"Carreras, Agustin gaston",44115136,"E.E.S.T N1",14,53,JUNIN,5,1
+4127,"Miranda, Agustin",45189295,E.E.S.N.2,14,53,JUNIN,5,1
+4074,"Rabadan, Agustín",43864756,"San Jorge",14,53,JUNIN,5,1
+4083,"Demaro, Delfina",45.428.833,"Padre respuela",14,53,JUNIN,5,1
+4070,"Cuzzola Mazzeo, Enzo",43657254,"San Jorge",14,53,JUNIN,6,4
+4090,"Lemos, Lautaro",43909307,"EEST N1",14,53,JUNIN,6,3
+4064,"Palma, Ana José",A00934347,"N 22",14,53,JUNIN,6,2
+4030,"Bermani Cavallo, Martina",44930387,Normal,14,53,JUNIN,6,1
+4062,"Cribelly, Nicolas",43322008,"Padre Respuela",14,53,JUNIN,7,5
+4034,"Urquiza, Iara",44358216,"San Jorge",14,53,JUNIN,7,1
+4068,"Gutierrez, Merlina",44490274,Normal,14,53,JUNIN,7,1
+4131,"Dominguez, Delfina",45189277,EESN2,14,53,JUNIN,7,1
+4099,"Darquizán, Valentín",43798768,Normal,14,53,JUNIN,8,6
+4017,"Trentacossti, Agustín",43864861,"Padre Respuela",14,53,JUNIN,8,2
+4047,"Martin, Brisa",44049643,"Colegio Parroquial San Jose",14,53,JUNIN,8,1
+4055,"Falcón, Juan Mateo",43322701,"E.E.S. N°3",14,53,JUNIN,8,1
+4086,"Miguel, Agustín",44110638,"Padre Respuela",14,53,JUNIN,9,3
+4048,"Bitar, Juanita",43909400,"parroquial San josé",14,53,JUNIN,9,2
+4067,"Guillotte, Alfonsina",44358386,"E.E.S N°3",14,53,JUNIN,9,1
+4130,"Greco, Valentin",43657287,E.S.N.2,14,53,JUNIN,9,1
+4052,"Amuchaste, Bautista",44418240,"E.E.S.T N°1",14,53,JUNIN,9,1
+4134,"Berlingieri, Santiago",43864727,Marianista,14,53,JUNIN,10,3
+4037,"Cancio Guerrera, Agostina",44490269,"San José",14,53,JUNIN,10,3
+4104,"Valenzuela, Florencia",43237658,"Escuela secundaria n15",14,53,JUNIN,10,1
+4088,"Guerini, Gabriel",44.110.578,E.E.S.n18,14,53,JUNIN,10,1
+4076,"Alvarez, Ana Laura",45189446,Normal,14,53,JUNIN,10,1
+4079,"Lodi, Agustina",43738100,"Secundaria 18",14,53,JUNIN,11,4
+4222,"González, Melina",44418229,"E.E.S N11",14,53,JUNIN,11,2
+4115,"Ariati, Francina",44358298,EESN3,14,53,JUNIN,11,1
+4051,"Bardagil, Julieta",44322835,"Escuela Secundaria n7",14,53,JUNIN,11,1
+4113,"Paratore, Yamila",44115019,"Escuela secundaria n°14",14,53,JUNIN,12,2
+4063,"Calderon, Melany",44490221,"E.E.S N°3",14,53,JUNIN,12,2
+4018,"Rossetti, Martina",46353948,"San Ignacio de Loyola",14,53,JUNIN,12,1
+4046,"Mena, Pilar",43660266,"San jose",14,53,JUNIN,12,1
+7618,"Durante, Matias",44322758,"Escuela 8",14,59,LINCOLN,1,4
+7608,"Lopez, Milagros",44265301,"SEC 6",14,59,LINCOLN,1,2
+7529,"CALIGIURI, EVELYN",43864806,"INSTITUTO JUAN BAUTISTA ALBERDI",14,59,LINCOLN,1,1
+7530,"PETTETA FERRA, NATALY",45222625,"INSTITUTO JUAN BAUTISTA ALBERDI",14,59,LINCOLN,2,2
+7611,"Villarino, Martina",44487554,"Virgen Niña",14,59,LINCOLN,2,1
+7531,"CALIANI, BIANCA",43019256,"INSTITUTO JUAN BAUTITA ALBERDI",14,59,LINCOLN,3,5
+7620,"Alonso, Juan ignacio",43303937,"Escuela 8",14,59,LINCOLN,3,2
+7621,"Garcia, María jose",43454627,"Escuela 8",14,59,LINCOLN,4,3
+7615,"Madarieta, Denise",43866301,"Virgen Niña",14,59,LINCOLN,4,1
+7433,"MELIS, ESTEBAN",43089237,"SEC 4",14,59,LINCOLN,4,1
+7622,"Gómez, Camila",43019534,"Escuela 8",14,59,LINCOLN,5,2
+7616,"Stazzoni, Bianca",44320881,Técnica,14,59,LINCOLN,5,1
+7444,"GARCIA MAGALLANES, MARIANA",43514263,"SEC 3",14,59,LINCOLN,5,1
+7521,"BONANO, JULIETA",47165860,"ESCUELA SECUNDARIA 2",14,59,LINCOLN,5,1
+7525,"RODRIGUEZ, DELFINA",43303991,"INSTITUTO JUAN BAUTISTA ALBERDI",14,59,LINCOLN,6,3
+7445,"BAGATTO, LUJAN",43907590,"SEC 3",14,59,LINCOLN,6,1
+7623,"Dorronzoro, Matias",44116321,"Escuela 8",14,59,LINCOLN,6,1
+7435,"DE ONOFRIO, CAROLINA",42564170,"SECUNDARIA 5",14,59,LINCOLN,6,1
+7624,"Kelly, Lautaro",43303948,"Escuela 8",14,59,LINCOLN,7,5
+7526,"BERECIARTU, AGUSTINA",45222609,"INSTITUTO JUAN BAUTISTA ALBERDI",14,59,LINCOLN,7,1
+7527,"PAPPALARDO, AZUL",43304000,"INSTITUTO JUAN BAUTISTA ALBERDI",14,59,LINCOLN,8,3
+7625,"Larraya, Andres",44116348,"Escuela 8",14,59,LINCOLN,8,1
+7603,"TAMAME, Maria",44320897,"Virgen Niña",14,59,LINCOLN,8,1
+7438,"TREJO, VICTORIA",43019261,"SEC 5",14,59,LINCOLN,10,2
+7626,"Insua, Emanuel",44116334,"Escuela 8",14,59,LINCOLN,10,2
+7605,"Lombardo, Agustina",43732101,"SEC 6",14,59,LINCOLN,10,1
+6992,"Ponciano, Jonathan",43094334,"E.E.S N°3",15,13,BRAGADO,1,4
+7019,"Pedrosa, Verónica",44934035,"E.E.S N°5",15,13,BRAGADO,1,4
+7023,"Obregón, Maria Laura",44934019,"E.E.S N°5",15,13,BRAGADO,1,3
+6790,"Pereyra, Juan Rodrigo",41293572,"E.E.S.T N1",15,13,BRAGADO,1,3
+7039,"Díaz, Tobias",44933908,Normal,15,13,BRAGADO,1,1
+7035,"Lamazon, Tomás",44264335,"EES 4",15,13,BRAGADO,1,1
+7036,"Celis, Guadalupe",44933966,"Escuela Normal",15,13,BRAGADO,1,1
+6991,"Duva, Gabriel",45040553,E.e.s.°3,15,13,BRAGADO,1,1
+5600,"Bollini, Daiana",45629993,"Escuela secundaria N° 7 Warnes",15,13,BRAGADO,1,1
+7029,"Cagliani, Héctor",45295738,EESN9,15,13,BRAGADO,1,1
+5709,"López, Nicolás",43247303,"Secundaria 7 anexo 2070 (manantiales)",17,27,CHASCOMUS,1,3
+5701,"Baez, Nicolas Bernardo",44726899,"Instituto Corazon de Maria",17,27,CHASCOMUS,1,2
+5719,"Andrade, Roberto",41311371,"EEE 501",17,27,CHASCOMUS,1,2
+5814,"Etchegoimberry, Elisa",44169415,"EESA N°1",17,27,CHASCOMUS,1,1
+5798,"Bilyk Lucci, Denise Solange",41873361,"Secundaria N3",17,27,CHASCOMUS,2,3
+5806,"Sambrino, Augusto",43969000,"Escuela agraria",17,27,CHASCOMUS,2,2
+5732,"Kurzijan, Maria",42022166,"EEE 502",17,27,CHASCOMUS,3,2
+5801,"Cabrera Valdez, María",43595709,"E.E.S N 1°",17,27,CHASCOMUS,3,2
+5803,"Martina, Soler",44934775,"E.E.S n°5",17,27,CHASCOMUS,3,1
+5839,"Urriolabeytia, Martina",44934666,"Secundaria n°5",17,27,CHASCOMUS,4,3
+5706,"Uriarte, Camila",43737654,"Instituto divino corazón",17,27,CHASCOMUS,4,2
+5837,"Fontana, Franco",44159987,EESTN1,17,27,CHASCOMUS,4,2
+5913,"Senra, Malena",33227000,Cec802,17,27,CHASCOMUS,5,5
+5818,"Baroli, Abril",43820832,"Instituto divino corazón",17,27,CHASCOMUS,6,2
+5818,"Baroli, Abril",43820832,"Instituto divino corazón",17,27,CHASCOMUS,6,2
+5813,"Quercetti, Sofía",44511923,"Instituto Corazon de María",17,27,CHASCOMUS,6,1
+5817,"Vang, fabian",41420311,"Secundaria n4",17,27,CHASCOMUS,6,1
+4536,"Abraham, Lucas",45674589,"Escuela educación secundaria número 1",17,36,"G BELGRANO",1,8
+4547,"Araujo, Rocio Agustina",43778596,"Regimiento de Patricios",17,36,"G BELGRANO",1,3
+4543,"Funes, Guadalupe",43980264,"EES n°1",17,36,"G BELGRANO",1,3
+4538,"Moreno, Kevin",45152040,E.E.S.N2,17,36,"G BELGRANO",1,2
+4546,"Giles, Juan",41899328,"E.E.S N°1",17,36,"G BELGRANO",1,2
+4533,"Freire, Tatiana",45630784,"Secundaria 5",17,36,"G BELGRANO",1,2
+4549,"Potaves, Ludmila",43980299,EESN1,17,36,"G BELGRANO",1,1
+942,"Martinez, Nicolas",45.503.539,"E.E.S.A N°1",17,41,"G PAZ",1,6
+935,"Goñi, Tadeo",43401738,Issc,17,41,"G PAZ",1,5
+925,"Ameri, Tomas",44559308,"E.E.S.N 4 ?Villa Brown?",17,41,"G PAZ",1,5
+927,"Gaitan, Facundo",46093485,"Escuela ES 2",17,41,"G PAZ",1,4
+936,"Londaitz, Maite",44592733,"Secundaria 5",17,41,"G PAZ",1,4
+944,"Mieres, Lucas ariel",44366914,E.E.S.N*3,17,41,"G PAZ",1,4
+3858,"Surra, Lucrecia",44048905,"Secundaria n 5",17,72,MONTE,1,2
+3861,"Coronel, Florencia soledad",43401705,"Escuela n°5",17,72,MONTE,1,2
+3862,"Tarazona, Giselle",43906392,"Escuela secundaria n°5",17,72,MONTE,1,1
+3856,"Cinalli, Diamela",45031438,E.S.N4,17,72,MONTE,1,1
+3854,"Cenas, Florencia",44559305,Eesn3,17,72,MONTE,1,1
+3859,"Gonzalez, Matias",43776169,"Secundaria N°4",17,72,MONTE,1,1
+3865,"Rocha, Agustina",44559352,Eesn3,17,72,MONTE,1,1
+5188,"Funes, Delfina",41097796,"E. E. S. N1",17,82,PILA,1,3
+5193,"Campenni, Aylen",44595613,"Escuela secundaria N°1",17,82,PILA,1,2
+5182,"Martinez, Rocio",44885217,"Escuela secundaria n1 pila",17,82,PILA,1,2
+5244,"Suarez, Jorgelina",44739500,ES2,17,82,PILA,2,6
+5223,"Bruno, Antonela",45034102,"ES 1",17,82,PILA,3,6
+5107,"Etchebarne, Jazmin",44357013,"Escuela de educación secundaria n°3",17,87,RAUCH,1,7
+5061,"Espelet, Agustina",44046812,Tecnica,17,87,RAUCH,2,9
+5051,"Fernandez, Joaquin",44046849,"Escuela agropecuaria Eustaquio Díaz Velez",17,87,RAUCH,3,5
+5031,"Calvo, Catalina",44357082,"Inmaculada Concepción",17,87,RAUCH,4,2
+5251,"Cervetta, Nicolas",44357080,Nacional,17,87,RAUCH,5,4
+5091,"Gonzalez, Jimena",43798811,"Instituto secundario de Rauch",17,87,RAUCH,5,2
+5091,"Gonzalez, Jimena",43798811,"Instituto secundario de Rauch",17,87,RAUCH,5,2
+5049,"Herreria, Ornela",44649508,"Instituto secundario de Rauch",17,87,RAUCH,5,1
+5034,"Laborde, Solange",43867325,"C.E.P.T N°5",17,87,RAUCH,6,3
+1110,"correa, gadiel",47118450,"ES N 9",18,6,AYACUCHO,1,3
+1110,"correa, gadiel",47118450,"ES N 9",18,6,AYACUCHO,1,3
+1121,"morel, jaqueline",35812035,"EES N°2",18,6,AYACUCHO,1,3
+1095,"reimondez, joaquin",46413771,"nuestra señora del buen consejo",18,6,AYACUCHO,1,2
+1023,"ACOSTA, MICAELA",46413877,"EES N°6",18,6,AYACUCHO,1,2
+1014,"Pecarrere, Ana Laura",47184724,"E.E.S N°1",18,6,AYACUCHO,1,1
+1012,"Sussino, Celeste",47118482,"E.E.S N°1",18,6,AYACUCHO,1,1
+1137,"fernandez, milagros",47130566,"ES N 2",18,6,AYACUCHO,1,1
+1037,"zaracho, malena",46074952,secundaria3,18,6,AYACUCHO,1,1
+1097,"villaverde, miranda",47513481,"ES N 9",18,6,AYACUCHO,2,4
+1130,"lopez, brian",45373679,"ES N 2",18,6,AYACUCHO,2,3
+1019,"Perez Torres, Agustin",47060189,"E.E.S N°1",18,6,AYACUCHO,2,1
+1010,"Taborda, Maximo",47186744,E.E.SN°1,18,6,AYACUCHO,2,1
+1092,"nobleza, josefina",48223005,"nuestra señora del buen consejo",18,6,AYACUCHO,2,1
+1108,"estable, ivan agustin",47403285,"ES N 9",18,6,AYACUCHO,3,4
+1129,"rios, brenda",43660029,"ES N 2",18,6,AYACUCHO,3,2
+1018,"Fernandez Andraca, Mateo",46900774,"E.E.S N°1",18,6,AYACUCHO,3,2
+1087,"morel, juan cruz",44264650,"EESA N1",18,6,AYACUCHO,3,1
+1025,"MONTESANO, CECILIA",47186793,"EES N°6",18,6,AYACUCHO,3,1
+1034,"fioravanti, tomas",46413855,"Secundaria 3",18,6,AYACUCHO,4,4
+1132,"Rios, facundo",45782833,"ES N 2",18,6,AYACUCHO,4,3
+1035,"vidal, amelia micaela",46391745,"Secundaria 3",18,6,AYACUCHO,4,2
+1093,"Arrut soler, marcos",46413841,"nuestra señora del buen consejo",18,6,AYACUCHO,5,4
+1081,"Gilardoni, Valentina",44113189,"EESA Nº 1",18,6,AYACUCHO,5,3
+1081,"Gilardoni, Valentina",44113189,"EESA Nº 1",18,6,AYACUCHO,5,3
+1013,"Russo Brogno, Agustina",47403241,"E.E.S N°1",18,6,AYACUCHO,5,2
+1022,"OLMOS, NICOLAS",46191442,"EES N°6",18,6,AYACUCHO,5,1
+1016,"Spossatto, Facundo",47106949,"E.E.E.S N°1",18,6,AYACUCHO,6,7
+1100,"gomez, marisel",45570947,"ES N 9",18,6,AYACUCHO,6,4
+1114,"lopez, veronica",45570904,"ES N 7",18,6,AYACUCHO,6,2
+2985,"Griffo, Luz",44488659,"EES N° 1",18,21,CASTELLI,1,42
+1490,"Bonaventa, Juan bautista",44048474,"Cristo rey",18,21,CASTELLI,1,41
+1900,"Principe, Pedro",47115405,"EES N° 1",18,21,CASTELLI,1,16
+1900,"Principe, Pedro",47115405,"EES N° 1",18,21,CASTELLI,1,16
+1900,"Principe, Pedro",47115405,"EES N° 1",18,21,CASTELLI,1,16
+1900,"Principe, Pedro",47115405,"EES N° 1",18,21,CASTELLI,1,16
+1612,"sanchez, renata estefania",46283919,"EES N° 1",18,21,CASTELLI,1,13
+1801,"Brivio, Genoveva",43658265,"EES N° 1",18,21,CASTELLI,1,11
+2371,"Principe, Juan Bautista",44255228,"EES N° 1",18,21,CASTELLI,1,9
+1665,"Bogdan, Agustina",47946738,"EES N° 1",18,21,CASTELLI,1,7
+1662,"Brunno, Pascuala",44048581,"EES N° 1",18,21,CASTELLI,1,6
+2057,"Bonavita, Pilar",44048572,"Cristo Rey",18,21,CASTELLI,1,5
+2962,"Veron, Erica",43658298,E.es.n1,18,21,CASTELLI,1,5
+1804,"PASCUA, VERONICA",44048402,"EES N° 1",18,21,CASTELLI,1,5
+1632,"LEDESMA, LEANDRO",44171413,"EES N° 1",18,21,CASTELLI,1,3
+2030,"Orruño, Nicolas",44048519,"Cristo Rey",18,21,CASTELLI,1,1
+1806,"LEDESMA, JUAN CRUZ",42461889,"EES N° 1",18,21,CASTELLI,1,1
+2321,"Rizzo, Valentina",43798689,"Ees 3",18,29,DOLORES,1,10
+1840,"Peppe, Mateo",47403092,"EEST n1",18,29,DOLORES,1,10
+2409,"Samarati, Camila",45675979,"EESA 1",18,29,DOLORES,1,5
+2359,"Alberti, Candela",44394111,"Instituto Fco de Paula Robles",18,29,DOLORES,1,5
+2105,"Molina, Gabriel",44111921,"EES Nº 4",18,29,DOLORES,1,5
+2106,"Eyherabide, brisa",43393789,"EES Nº 4",18,29,DOLORES,1,5
+2315,"Elias, Paula",43969007,"Ees 3",18,29,DOLORES,1,4
+1904,"Gallo, Cielo",43393762,EESN°5,18,29,DOLORES,1,3
+2406,"Romero, Sebastian",46556821,"EESA N1",18,29,DOLORES,1,2
+2353,"Bonavita, Lucia",45897926,"Paula Robles",18,29,DOLORES,1,2
+2345,"Cabrera, Daniela",43393730,"Paula robles",18,29,DOLORES,1,1
+2346,"Curi, Lucila",43992573,"Paula robles",18,29,DOLORES,1,1
+2339,"Falconnat, Maximiliano",44535949,"Eest 1",18,29,DOLORES,1,1
+2356,"Dambrosio, Agustina",45539649,"Paula robles",18,29,DOLORES,1,1
+1835,"Biso, Penelope",43393792,EESN°1,18,29,DOLORES,1,1
+3488,"Gómez, Federica",43659660,"Escuela Doctor Ibérico de Amezola N°2",18,37,"G GUIDO",1,3
+3485,"santucci derensi, ana chiara",42593335,"EES 1",18,37,"G GUIDO",1,3
+3484,"Marchetti, Evelyn",43738139,EES1,18,37,"G GUIDO",1,1
+3513,"Luna, Ximena",43463595,"CEPT n° 28",18,37,"G GUIDO",1,1
+3486,"Morales, Delfina",44.784.934,EES1,18,37,"G GUIDO",1,1
+1950,"García, Wanda",43040574,"EES3 CHACRAS",18,39,"G LAVALLE",1,2
+1916,"ALMARAZ, GUADALUPE",46703704,"EES N 1",18,39,"G LAVALLE",2,2
+1948,"Duran, Sabrina",43105752,"EES3 CHACRAS",18,39,"G LAVALLE",2,2
+1891,"MONTENEGRO, PRISCILA",46911704,"EES N 1",18,39,"G LAVALLE",2,1
+5066,"El Hage, Navila",44050263,"Instituto San José",18,40,"G MADARIAGA",1,3
+5805,"Ruau, Alejo",44415457,EESN2,18,40,"G MADARIAGA",1,2
+4914,"De la fuente, Micaela",44689039,"EES N6",18,40,"G MADARIAGA",1,2
+5938,"TOLOSA, NAYARIT",44589813,"EEST N1",18,40,"G MADARIAGA",1,1
+5196,"MICHIA, PABLO",44050210,"EES N° 5",18,40,"G MADARIAGA",2,3
+5072,"Garay Olindi, Manuela",45177848,"Instituto San José",18,40,"G MADARIAGA",2,2
+4802,"colombo, victoria",45176076,"E.E.S.T 15 de noviembre",18,40,"G MADARIAGA",2,2
+5077,"Jorge, Agostina",45176077,"Instituto San José",18,40,"G MADARIAGA",3,5
+5227,"CHERES, MARIA JOSE",44589854,"EESN° 4 RENE FAVALORO",18,40,"G MADARIAGA",3,2
+5812,"Loureiro, Alejandro",44275131,"EES N2",18,40,"G MADARIAGA",5,4
+5209,"FANCON, LARA",44417034,"EES N° 5",18,40,"G MADARIAGA",5,2
+5184,"Ramat, Valentin",45176053,"Instituto San Jose",18,40,"G MADARIAGA",5,1
+2629,"alarcon, juan martin",42900442,"escuela secundaria n°1 Francisco H. Ramos Mejía",18,65,MAIPU,1,4
+7590,"Fernandez, Sofia",43738127,"Escuela secundaria",18,65,MAIPU,1,3
+7579,"Chavez, Roman",43462599,Normal,18,65,MAIPU,1,3
+1555,"Aranciaga, Dolores",44336430,"Escuela secundaria numero 3 las armas",18,65,MAIPU,1,2
+3052,"Gervasio, Gesino",44113497,IPMG,18,65,MAIPU,1,2
+7222,"Raggio, Sebastian",43798683,"Anexo 3011 santo domingo",18,65,MAIPU,1,2
+5688,"Benitez, Juana",43463563,"Instituto Pbro. Mauro Golé",18,65,MAIPU,1,1
+3219,"Rodriguez, Maria",44335433,"Instituto Presbitero Mauro Golé",18,65,MAIPU,1,1
+3053,"Jura, Facundo",44560860,"Instituto Presbitero Mauro Gole",18,65,MAIPU,1,1
+6528,"Moreno, Luisana",44837240,"Instituto Presbitero Mauro Gole",18,65,MAIPU,1,1
+7514,"Lopez, Lucia",45397622,"Anexo 3011",18,65,MAIPU,1,1
+3349,"Nogueira, Melany",43257637,"Emilio conesa",18,104,TORDILLO,1,11
+1537,"Rolleri, Agustina",44048561,"Escuela Media Emilio Conesa N°1",18,104,TORDILLO,1,5
+3224,"Rosas, Gianluca",43248433,"EES N° 1",18,104,TORDILLO,1,4
+1728,"Lara, Martina",43248420,"Escuela secundaria n1 emilio conesa",18,104,TORDILLO,1,4
+3331,"Roch, Priscila morena",43257647,"E E S n1",18,104,TORDILLO,1,2
+3150,"Garay, Kevin",43257662,"escuela emilio conesa",18,104,TORDILLO,1,2
+3424,"Morete, Ayelen",43248421,"Emilio Conesa",18,104,TORDILLO,1,2
+2367,"Gimenez, Mariano",46825462,"Emilio conesa",18,104,TORDILLO,1,1
+3225,"Rolon, Marcela",43.257.646,"Emilio conesa",18,104,TORDILLO,1,1
+5916,"Tunich, Valeria Solange",43584841,"Bellas Artes",18,123,"LA COSTA",1,8
+5627,"Bilanovic, Tomás",43571102,"E.E.S.T N°1",18,123,"LA COSTA",1,3
+5647,"Rios, Nikol",95308986,"E.E.S.T.N° 2",18,123,"LA COSTA",1,3
+5644,"Palma, Ezequiel",43917910,EESTN2,18,123,"LA COSTA",1,3
+3550,"Maneiro, Brisa",44426704,"Escuela técnica 2",18,123,"LA COSTA",1,2
+3115,"marino, lautaro",42594298,"Escuela de educación secundaria técnica N?2",18,123,"LA COSTA",1,2
+4968,"Álvarez, Agustín",43319587,"EEE 503",18,123,"LA COSTA",1,2
+5947,"Falco, Luna",44759488,"Escuela secundaria N8 héroes de malvinas",18,123,"LA COSTA",1,2
+4775,"Da rocha Calvo, Baltazar Ezequiel",44451810,"EES 9",18,123,"LA COSTA",1,1
+4796,"LOVOTRICO, FRANCISCO RAUL",43470147,"Escuela de Educacion Secundaria Tecnica N°1",18,123,"LA COSTA",1,1
+5527,"Schmidt, Cristian",43978308,"Bellas artes",18,123,"LA COSTA",1,1
+5628,"Rodriguez, Lucas",44206182,"E.E.S.T. N1",18,123,"LA COSTA",1,1
+5933,"D?Ettorre, Dante",44934908,"Bellas Artes",18,123,"LA COSTA",1,1
+5594,"Gutlein, Evelyn",44339340,"Paulo Freire N°10",18,123,"LA COSTA",1,1
+5659,"Gutierrez, Franco",44535827,"Escuela secundaria 8 de Mar de Ajó Norte",18,123,"LA COSTA",1,1
+5909,"Ortega, Facundo",43628974,Ijme,18,123,"LA COSTA",1,1
+5622,"Hernandez, Daina",43656425,"Paulo freire 10",18,123,"LA COSTA",1,1
+6809,"Mendez, Delfina",44417050,"Escuela secundaria n°4 (Arvis)",18,124,PINAMAR,1,9
+7043,"Roncoroni, Santino",44831570,"Corbeta Uruguay",18,124,PINAMAR,1,7
+7042,"oñate, milagros",44504014,"corbeta uruguay",18,124,PINAMAR,1,7
+7117,"De Leon, Keila",43459577,"EES N° 3",18,124,PINAMAR,1,4
+7115,"Pelaez, Joscelyn Milagros",43459546,"EES N° 3",18,124,PINAMAR,1,3
+6800,"Barmat, Guillermina",45014344,"Escuela secundaria n° 4 (Arvis)",18,124,PINAMAR,1,3
+7091,"Moltine, Kevin",45991597,"E.E.S N°2",18,124,PINAMAR,1,2
+7080,"De la fuente, Marianela Constanza",44857643,"EESN 2",18,124,PINAMAR,1,2
+7090,"Romero, Giuliana Nicole nair romero",44353688,EESN2,18,124,PINAMAR,1,2
+6810,"Cambre, Maria del Mar",45291960,"Escuela secundaria n°4 (Arvis)",18,124,PINAMAR,1,1
+7357,"Icardo zubarriain, Conrado",44261342,"Secundaria n6",18,125,"V GESELL",1,3
+7377,"Berberian, Nicolás",43445466,EESN3,18,125,"V GESELL",1,3
+7324,"Caceres, Antonela",44489619,"EES N°6",18,125,"V GESELL",1,2
+4586,"Cuadra, Pablo",30506521,"EES 61",19,43,"G PUEYRREDON",1,2
+4587,"Monti Picetti, María Laura",27942082,"EMES 217",19,43,"G PUEYRREDON",1,2
+4589,"Di Fino, Leandro",33987737,"EES Nueva 42",19,43,"G PUEYRREDON",1,1
+4593,"Vazquez, Sandra",17178994,"EES NRO 23",19,43,"G PUEYRREDON",1,1
+4592,"Rampoldi, Adrián",30876733,"Escuela secundaria 41",19,43,"G PUEYRREDON",1,1
+772,"ALVAREZ, MELINA",45427017,"EES N° 1",20,60,LOBERIA,2,17
+616,"Sánchez, Leonardo Nahuel",44861644,"E.E.S. N° 1 Napaleofu",20,60,LOBERIA,2,15
+766,"IRIGOYEN, CATALINA",44831142,"EES N° 1",20,60,LOBERIA,2,8
+767,"LEGUIZAMÓN, LAUTARO",46203800,"EES N° 1",20,60,LOBERIA,2,1
+660,"GALLINI, VENIERO",46029976,"EES N° 2",20,60,LOBERIA,3,11
+670,"ANRIQUEZ, LOLA",46016121,"EES N° 2",20,60,LOBERIA,3,2
+669,"BARRAZA, PILAR",46016152,"EES N° 2",20,60,LOBERIA,3,1
+669,"BARRAZA, PILAR",46016152,"EES N° 2",20,60,LOBERIA,3,1
+669,"BARRAZA, PILAR",46016152,"EES N° 2",20,60,LOBERIA,3,1
+614,"Rios, Yanela Fernanda",44831130,"E.E.S N°3 SAN MANUEL",20,60,LOBERIA,4,6
+805,"RUIZ OROSCO, VALENTINA",46138935,"EES N° 3",20,60,LOBERIA,4,3
+619,"Totaro, Zoe",46427820,"E.E.s n°3",20,60,LOBERIA,4,1
+796,"GOMEZ, JAZMIN",43970190,"EES N° 4",20,60,LOBERIA,5,4
+824,"SERRANO, SANTIAGO",43305891,"EES N° 4 Anexo",20,60,LOBERIA,6,5
+680,"Foss Monge, Alejandro",43970110,"Escuela Secundaria N°5",20,60,LOBERIA,7,14
+683,"Cansobre, Francisco",45190995,"EESA N°1",20,60,LOBERIA,8,9
+685,"Benavidez, Alina",44242551,"Escuela secundaria agraria N° 1",20,60,LOBERIA,8,3
+688,"Marisol, Arzoz",45190998,"Escuela secundaria agraria N°1",20,60,LOBERIA,8,2
+834,"Dahul, Ignacio",45190987,"E.e.s.a n1",20,60,LOBERIA,8,1
+852,"HOFFMAN, IVÁN",43658116,"EEST N° 1",20,60,LOBERIA,9,7
+854,"CEJAS RIOS, LUCIA",42959506,"EEST N° 1",20,60,LOBERIA,9,2
+844,"FIGUEROA, LARA",43863953,"EEST N° 1",20,60,LOBERIA,9,1
+858,"FRANZOLINI, MARIA DE LOS MILAGROS",43741202,"EEE N° 501",20,60,LOBERIA,10,7
+871,"FERNANDEZ, AIXA",43970160,"Instituto Calasancio Divina Pastora",20,60,LOBERIA,11,7
+595,"Fernandez Lopez, Lucia",44750913,"Instituto Calasancio Divina Pastora",20,60,LOBERIA,11,4
+723,"Fernández, Jordán",43658121,"Instituto Nuestra Señora de Fatima",20,60,LOBERIA,12,10
+5643,"Heim, Ayelem",43463610,"EES N° 3",21,23,"C DORREGO",1,2
+5649,"Perez, Simon",44335502,"ICN ORIENTE",21,23,"C DORREGO",2,10
+5672,"Gabino, Rocio",44241970,"ICN ORIENTE",21,23,"C DORREGO",2,3
+5655,"Plaza, Abril",43867494,"ICN ORIENTE",21,23,"C DORREGO",2,1
+5687,"Echeto, Brisa Magali",43658079,"EES N° 2",21,23,"C DORREGO",3,4
+5684,"Gartner, Candela",44415886,"EES N° 2",21,23,"C DORREGO",3,2
+6482,"De Leo, Nicolas",43592701,Verdier,21,24,"C PRINGLES",1,15
+6441,"Horticolou, Juan Pablo",42688200,"ES Nº4",21,24,"C PRINGLES",1,8
+6364,"Zweedyk, Florencia",44047758,Agrotecnica,21,24,"C PRINGLES",1,6
+6421,"Ojeda, Lucas",43906705,"ES Nº5",21,24,"C PRINGLES",1,4
+6862,"Batelli, Victoria",44241516,"EEST Nº1",21,24,"C PRINGLES",1,3
+6863,"Benassi, Maria Sara",44047775,"EEST Nº1",21,24,"C PRINGLES",1,3
+6462,"Alegre, Francisco",44321428,"Sagrado Corazón",21,24,"C PRINGLES",1,3
+6860,"Barrios, Noelia",44241552,"EEST Nº1",21,24,"C PRINGLES",1,3
+6359,"Avalos, Candela Belen",45037492,"ES Nº3",21,24,"C PRINGLES",1,2
+6480,"Contreras, Geronimo",43185813,Verdier,21,24,"C PRINGLES",1,2
+6397,"Garcia Monteni, Bautista",44640580,Agrotecnica,21,24,"C PRINGLES",1,1
+6370,"Rodriguez, Catalina",44241556,Agrotecnica,21,24,"C PRINGLES",1,1
+6361,"Maradeo, Bautista",44241550,Agrotecnica,21,24,"C PRINGLES",1,1
+5076,"De Battista, María Belen",44334711,"Inmaculada Concepcion",21,50,"G CHAVES",1,3
+5074,"Marochi, Santino",44932714,"Instituto juan elicagaray",21,50,"G CHAVES",1,1
+5080,"Bravo, Florencia",44561320,"Instituto Juan Elicagaray",21,50,"G CHAVES",1,1
+5122,"Ganim augusto, Salma",45291879,"E.E.S N°1",21,50,"G CHAVES",2,6
+5243,"Guridi, Manuela",44932735,"Inmaculada concepcion",21,50,"G CHAVES",2,2
+5189,"Barneche, Sofia",43905946,"Secundaria 4",21,50,"G CHAVES",3,2
+5177,"Alippi, Brenda",44334750,E.E.S.Tn1,21,50,"G CHAVES",3,2
+5177,"Alippi, Brenda",44334750,E.E.S.Tn1,21,50,"G CHAVES",3,2
+5177,"Alippi, Brenda",44334750,E.E.S.Tn1,21,50,"G CHAVES",3,2
+5177,"Alippi, Brenda",44334750,E.E.S.Tn1,21,50,"G CHAVES",3,2
+5177,"Alippi, Brenda",44334750,E.E.S.Tn1,21,50,"G CHAVES",3,2
+5174,"Rubiera, Valentina",43455373,"Secundaria 4",21,50,"G CHAVES",3,1
+5178,"Gomez De Saravia, Romina",45989528,"Escuela Secundaria N°3",21,50,"G CHAVES",3,1
+5089,"Felipe, Saide",44561355,"Instituto inmaculada concepcion",21,50,"G CHAVES",4,3
+5115,"Rodríguez, Gonzalo",43056919,"Escuela 4",21,50,"G CHAVES",4,2
+5094,"Pellegrini, Mikael",44561354,"Instituto Juan Elicagaray",21,50,"G CHAVES",4,1
+5129,"Tanno, Ariana",45291861,"Escuela educación secundaria n 1",21,50,"G CHAVES",4,1
+5159,"Dejean, Juliana",44334745,I.I.C,21,50,"G CHAVES",5,7
+5147,"Pucci, Agustina",44.334.730,Ije,21,50,"G CHAVES",5,1
+5145,"Alvarez, Melanie",44.561.348,Ije,21,50,"G CHAVES",5,1
+5255,"Paradisi, Nicolas",44932711,"Inmaculada concepcion",21,50,"G CHAVES",6,4
+5443,"Sanz, Juana",44242823,"Instituto Doctor Pedro Diaz Pumara",21,52,JUAREZ,1,2
+5446,"Herrera, Gian Marco",44426639,"EESN 2",21,52,JUAREZ,1,2
+5448,"Bustos, Catalina",44928315,"EES 1 Ministro Zarini",21,52,JUAREZ,1,2
+5450,"Fiser, Bianca",44242867,"EES N3",21,52,JUAREZ,1,1
+5454,"Ballestero, Santiago",44242885,"Dracula ministro marini numero 1",21,52,JUAREZ,1,1
+4575,"Montenegro, Aaron",43535282,"Escuela media",21,54,LAPRIDA,1,5
+4577,"Azocar, Facundo",44128048,"EEST N°1",21,54,LAPRIDA,1,3
+4576,"Bascur, Damian",44109925,"Tecnica n1",21,54,LAPRIDA,1,1
+3281,"dos Santos, María Lola",44489314,EESN1,21,107,"TRES ARROYOS",1,1
+3405,"Barrionuevo, Julieta",44840841,EESN°1,21,107,"TRES ARROYOS",2,5
+3410,"Daddario, Agostina",45605965,"Escuela Agropecuaria de Tres Arroyos",21,107,"TRES ARROYOS",2,3
+3407,"Zijlstra, Alexia",43732329,"EES N° 2",21,107,"TRES ARROYOS",2,3
+3400,"Perazzo, Ayelén",44840883,"Instituto Secundario Claromecó",21,107,"TRES ARROYOS",2,2
+3416,"Torres, Octavia",43106038,"Colegio hogar San José",21,107,"TRES ARROYOS",2,2
+3399,"Martínez, Benjamin",44165304,"Colegio Holandes",21,107,"TRES ARROYOS",2,1
+3413,"Beati, Enrique Teo",45398140,EATA,21,107,"TRES ARROYOS",2,1
+3420,"Hefner, Lucas",45.175.902,Ext.2080,21,107,"TRES ARROYOS",2,1
+3415,"Rodriguez, Fernanda guadalupe",41.574.082,EES4,21,107,"TRES ARROYOS",2,1
+3428,"Maranghello, Dante",46.105.503,"Instituto secundario claromeco",21,107,"TRES ARROYOS",2,1
+3406,"Rapolla, Maitena",44167961,"Ess numero 8",21,107,"TRES ARROYOS",2,1
+3272,"Pereyra, Lautaro",43865760,"Colegio hogar San jose",21,107,"TRES ARROYOS",3,4
+3272,"Pereyra, Lautaro",43865760,"Colegio hogar San jose",21,107,"TRES ARROYOS",3,4
+3311,"Reeb, Jason",45915159,"Escuela Técnica N°1",21,107,"TRES ARROYOS",3,2
+3275,"Iorio, Mia",45176506,"Escuela Agropecuaria de Tres Arroyos",21,107,"TRES ARROYOS",3,1
+3260,"Ibarra Ramón, María Salomé",44418032,"Colegio Holandes",21,107,"TRES ARROYOS",3,1
+3271,"Gordillo, Ariadna",45614452,"Escuela media",21,107,"TRES ARROYOS",3,1
+3274,"Risso, Emma",45747954,"Escuela Agropecuaria de Tres Arroyos",21,107,"TRES ARROYOS",3,1
+3306,"López, Pablo",45568752,2080,21,107,"TRES ARROYOS",3,1
+3230,"Ines, Brisa",44933095,E.E.SN1,21,107,"TRES ARROYOS",4,2
+3270,"Vicente, Abril",45605908,EESBN9,21,107,"TRES ARROYOS",4,1
+3257,"Dominguez, Bautista",44418108,"Colegio Jesus Adolescentes",21,107,"TRES ARROYOS",4,1
+3246,"Elicalde, Milagros",44114000,"Hogar San José",21,107,"TRES ARROYOS",4,1
+3254,"Herrera, Yazmin",43466158,"Escuela Secundaria N5",21,107,"TRES ARROYOS",4,1
+3250,"Campaña, Berenice",43393436,"EES N°2",21,107,"TRES ARROYOS",4,1
+3253,"Somovilla, Gianna",38926494,"EES 2",21,107,"TRES ARROYOS",4,1
+3320,"Trujillo, Nicolas",46094496,"Instituto Secundario Claromeco",21,107,"TRES ARROYOS",4,1
+3435,"Iglesias, Victoria",44729426,"EES 5",21,107,"TRES ARROYOS",5,6
+3236,"Cattanio, Mateo",44840897,"Colegio Holandés",21,107,"TRES ARROYOS",5,2
+3242,"Alvarez, Julián",44933064,EESN1,21,107,"TRES ARROYOS",5,2
+3285,"vega, ayelen",38926493,"extension 2080",21,107,"TRES ARROYOS",5,2
+3382,"Urbieta, Pilar",45915187,Agropecuaria,21,107,"TRES ARROYOS",5,2
+3390,"Quinteros, Daniela",54141777,"Esb 9",21,107,"TRES ARROYOS",5,2
+3239,"Cortadi, Valentina",44418081,"Escuela de Educación Secundaria N° 1",21,107,"TRES ARROYOS",5,1
+3248,"Di salvo, Camila",43.106.049,"E.E.S n° 2",21,107,"TRES ARROYOS",5,1
+3255,"Ortega flecha, Valentina",43909669,"Colegio nuestra señora de lujan",21,107,"TRES ARROYOS",6,6
+3231,"espejo, Valentino",43.909.630,"instituto secundario claromeco",21,107,"TRES ARROYOS",6,5
+3241,"Chaves, Mateo",44553489,"Jesús adolescente",21,107,"TRES ARROYOS",6,3
+3229,"Barbara, Zaira",44262763,EESN1,21,107,"TRES ARROYOS",6,2
+3249,"Minor, Agustín",44047072,EESN°2,21,107,"TRES ARROYOS",6,1
+3269,"Menna, Matias",46.353.743,EESN2,21,107,"TRES ARROYOS",6,1
+5269,"Antonella, Parrotta",44240595,"Escuela Secundaria N20",22,8,"B BLANCA",1,2
+5267,"Vaccaro Petracci, María Paula",44321320,"Escuela Secundaria N20",22,8,"B BLANCA",1,1
+4519,"Soraire luna, MAFALDA",46339762,"36 sec",22,8,"B BLANCA",2,2
+4442,"Vilca, Iván",43698321,"E.E.S.T.n°2 Ing.Cesar Cipolletti",22,8,"B BLANCA",3,2
+4368,"Surop, Vanina",43670093,"Media 15",22,8,"B BLANCA",4,5
+6556,"Villar Firpo, Valentina",44958383,"Media 3",22,8,"B BLANCA",5,3
+6780,"Flores, Antonella",42029986,"ES N°13",22,8,"B BLANCA",6,2
+6760,"Quintulican, Ailin",43596563,"Ees n°13",22,8,"B BLANCA",6,1
+6683,"Chen, Camila",43316705,"Ex nacional",22,8,"B BLANCA",6,1
+6739,"Guber, Micol",44242290,"Media n° 13",22,8,"B BLANCA",6,1
+6737,"Viveros Ojeda, Jeremías maximiliano",44.322.425,E.E.S.N°13,22,8,"B BLANCA",6,1
+6033,"Dominguez, Mauro ezequiel",41386667,"EES N°38 anexo 2",22,8,"B BLANCA",8,3
+7380,"Garcìa, Santino",44322592,"ES 19",22,8,"B BLANCA",10,2
+7379,"Olivera, Micaela",44321485,"ES 19",22,8,"B BLANCA",10,1
+1513,"Bichara, Bautista",43.372.580,"Escuela secundaria Malvinas N°2",22,78,PATAGONES,1,3
+1873,"Schmidt, Delfina Aisha",44454586,"E.E.S. N°4",22,78,PATAGONES,1,3
+1771,"MONTESINO, Analuz",43659682,"E.E.S N1 ""Pasó Alsina""",22,78,PATAGONES,1,2
+2819,"Saenz epul, Esmeralda",44242797,"EESA N1-  C.Spegazzini",22,78,PATAGONES,1,2
+2757,"Ibargoyen, Karen",44.811.085,"Carlos Spegazzini",22,78,PATAGONES,1,1
+1784,"Huenchullan Cardenas, Tatiana Magali",44811033,"E.E.S N°5",22,78,PATAGONES,1,1
+2456,"Strübing, Delfina",43659695,"E.E.S N7 ?Cardenal Cagliero?",22,78,PATAGONES,1,1
+2759,"Abdala, Sarai",44242773,"EESA N1-  C.Spegazzini",22,78,PATAGONES,1,1
+2724,"Goncalves, Camila",44041558,"San jose",22,78,PATAGONES,1,1
+2638,"Lorenzo, Maria Sol",44047717,"E. E. S. Nº 5",22,78,PATAGONES,2,2
+2832,"Escañuela, Maria Emilia",44324688,"EESA N1-  C.Spegazzini",22,78,PATAGONES,2,2
+2171,"Fierro, Benjamin",43827304,E.E.S.N°3,22,78,PATAGONES,2,2
+2464,"Morales, Laila Ivel",44255414,"EES N°7 Cardenal Cagliero",22,78,PATAGONES,2,2
+2888,"García, Bárbara",44324728,"E.E.S Nº2 ""Islas Malvinas""",22,78,PATAGONES,2,1
+1745,"melo, nicole ailen",43980710,secundarian4,22,78,PATAGONES,2,1
+2730,"Herrera, Rosio",44.242.717,"San José",22,78,PATAGONES,2,1
+2460,"Gross, Sofia",44255416,"E.e.s n°7 cardenal cagliero",22,78,PATAGONES,3,4
+2794,"Robledo, Nicolas",42447797,"Carlos spegazzini",22,78,PATAGONES,3,4
+3016,"cuartero, agustín",44817905,"san jose",22,78,PATAGONES,3,2
+2726,"Acuña, Martin Elian",44590034,"San Jose",22,78,PATAGONES,3,1
+2457,"Weingartner magt, Francisco Iván",43659693,"Ees 7º",22,78,PATAGONES,4,4
+2776,"Cancino, Ariana",43670489,"EESA N1-  C.Spegazzini",22,78,PATAGONES,4,3
+2861,"Roman, Karen",44462049,"EES N5",22,78,PATAGONES,4,2
+1467,"Suso, Mauricio",43685509,"E.E.S N° 2 ""Islas Malvinas""",22,78,PATAGONES,5,1
+2855,"Pozzobon, Giuliana",43466483,"EES N 5",22,78,PATAGONES,5,1
+2462,"Prado, Melina",44115644,"EES 7",22,78,PATAGONES,6,4
+1514,"Román, Stefania",43670420,"E.E.S N°2 ""ISLAS MALVINAS""",22,78,PATAGONES,6,3
+3019,"lima, ile",44324612,"San jose",22,78,PATAGONES,6,1
+2197,"Alzamendi, Jesus",46000613,E.e.s.t.n.1,22,78,PATAGONES,6,1
+3156,"Dutra, Romina",44242792,"Carlos spegazzini",22,78,PATAGONES,6,1
+3156,"Dutra, Romina",44242792,"Carlos spegazzini",22,78,PATAGONES,6,1
+3081,"Tapia, Antonella",43980733,"E. E. S. N° 4",22,78,PATAGONES,6,1
+3994,"Contra iguacel, Tobías leonel",43657846,"Instituto don bosco",22,110,VILLARINO,1,4
+3509,"Santecchia, Enzo",43392995,"Instituto don Bosco",22,110,VILLARINO,1,2
+3942,"Sensini, Giuliano",44255124,"Instituto Don Bosco",22,110,VILLARINO,1,1
+3944,"Gutierrez alejandrino, Vanesa victoria",43607351,"Instituto don bosco",22,110,VILLARINO,1,1
+4142,"Bonifacio, Alex",43261291,"ES 2",22,110,VILLARINO,2,2
+4137,"Perez, Maximo",45037388,"ES 2",22,110,VILLARINO,2,1
+4139,"Pellejero, Belen",43261247,"ES 2",22,110,VILLARINO,2,1
+4140,"Gorosito, Melani",43554244,"ES 2",22,110,VILLARINO,2,1
+4145,"Gonzalez, Eliana",43801631,"CENS 451",22,110,VILLARINO,3,1
+4144,"Nuñez, Carla",40756483,"CENS 451",22,110,VILLARINO,3,1
+4154,"Gristman, Iara",43980763,"EESA 1",22,110,VILLARINO,4,5
+4166,"Steinbach, Luna",44289164,"EESA 1",22,110,VILLARINO,4,2
+4163,"Orazio, Alejo",43980998,"EESA 1",22,110,VILLARINO,4,1
+4152,"Asspel, Vanina",43657885,"EESA 1",22,110,VILLARINO,4,1
+4168,"Guillermo, Bahiana",44255140,"ES 9",22,110,VILLARINO,5,5
+4173,"Zurzolo, Isabella",44355417,"ES 9",22,110,VILLARINO,5,1
+4167,"Gutierrez, Magali",45037313,"ES 9",22,110,VILLARINO,5,1
+4175,"Huanca, Roxana",44255138,"ES 8",22,110,VILLARINO,6,4
+3979,"Carrasco, Yuliana Natali",45397940,"EES N°8",22,110,VILLARINO,6,3
+4179,"Lamas, Sofia",44255114,"ES 8",22,110,VILLARINO,6,3
+4187,"Giron, Ariel",45915572,"ES 8",22,110,VILLARINO,6,2
+4189,"Ayarde, Mariana",46825119,"ES 8",22,110,VILLARINO,6,1
+4189,"Ayarde, Mariana",46825119,"ES 8",22,110,VILLARINO,6,1
+4189,"Ayarde, Mariana",46825119,"ES 8",22,110,VILLARINO,6,1
+4189,"Ayarde, Mariana",46825119,"ES 8",22,110,VILLARINO,6,1
+4189,"Ayarde, Mariana",46825119,"ES 8",22,110,VILLARINO,6,1
+4189,"Ayarde, Mariana",46825119,"ES 8",22,110,VILLARINO,6,1
+4189,"Ayarde, Mariana",46825119,"ES 8",22,110,VILLARINO,6,1
+4189,"Ayarde, Mariana",46825119,"ES 8",22,110,VILLARINO,6,1
+4189,"Ayarde, Mariana",46825119,"ES 8",22,110,VILLARINO,6,1
+4189,"Ayarde, Mariana",46825119,"ES 8",22,110,VILLARINO,6,1
+4189,"Ayarde, Mariana",46825119,"ES 8",22,110,VILLARINO,6,1
+4189,"Ayarde, Mariana",46825119,"ES 8",22,110,VILLARINO,6,1
+4189,"Ayarde, Mariana",46825119,"ES 8",22,110,VILLARINO,6,1
+4189,"Ayarde, Mariana",46825119,"ES 8",22,110,VILLARINO,6,1
+4197,"Labarrere, Aylen",45915684,"ES 1",22,110,VILLARINO,8,2
+4198,"Condori, Alex",51227584,"ES 1",22,110,VILLARINO,8,1
+4200,"Quispe, Jhoselin",95375059,"ES 1",22,110,VILLARINO,8,1
+4387,"Stalldecker, Sofía",43743076,"E.E.S. N4",22,110,VILLARINO,9,3
+4597,"Delgadino Rodríguez, Francisco",43599695,"E.E.S n°4",22,110,VILLARINO,9,3
+5263,"Schap, Brisa",45223357,"Escuela Secundaria Nro 4 Algarrobo",22,110,VILLARINO,9,1
+5270,"Peralta, Rocio",43599683,"Escuela Secundaria Algarrobo",22,110,VILLARINO,9,1
+5398,"Di Rocco, Angelina",43986287,"ES 3",22,110,VILLARINO,10,4
+5392,"Alvarez, Jazmin",43986294,"ES 3",22,110,VILLARINO,10,3
+5380,"Alvarez, Maximiliano",43986295,"ES 3",22,110,VILLARINO,10,2
+5419,"Mondaca Vega, Rodrigo Alejandro",43599700,"ES 6",22,110,VILLARINO,11,6
+5421,"Garcia Lantz, Lautaro Diego",42539955,"ES 6",22,110,VILLARINO,11,1
+4610,"Pereyra, Agustin",43591137,"Es 8",22,112,"C ROSALES",8,1
+4151,"Olmos, Micaela",44451180,"Esteban Dufaur",22,126,"M HERMOSO",1,10
+4220,"cobian, jeronimo",44471394,ees1,22,126,"M HERMOSO",1,5
+3957,"Cavalli, Micaela",43.984.022,"Escuela educacion secundaria n1",22,126,"M HERMOSO",1,2
+4157,"Ojeda, Camila",42677479,"Escuela n°2 Ernesto ""che"" Guevara",22,126,"M HERMOSO",2,8
+4165,"Villegas, Nuria",52193231,"EES N2",22,126,"M HERMOSO",2,2
+4238,"lizarrondo, martin",42677441,ees2,22,126,"M HERMOSO",2,2
+4237,"ortiz, celeste",94903321,ees2,22,126,"M HERMOSO",2,2
+4156,"Mora, Agustina",44353201,"Ernesto Ché Guebara",22,126,"M HERMOSO",2,1
+5914,"Baptista, Cristian",44462033,"E.E.S.T 1",23,2,"A ALSINA",1,4
+2129,"Montiel, Marcos",44462086,"E.E.S.T N°1",23,2,"A ALSINA",1,1
+1573,"Bahamonde, Daniela",47091107,"Cec 802",23,2,"A ALSINA",2,2
+3208,"Barbado, Mirko",44462044,"Escuela media N2",23,2,"A ALSINA",3,7
+3208,"Barbado, Mirko",44462044,"Escuela media N2",23,2,"A ALSINA",3,7
+4584,"sanchez, sofia",44046265,eesn2,23,2,"A ALSINA",3,3
+1376,"Uranga, Victoria",44167833,"Instituto Mariano Moreno",23,2,"A ALSINA",4,3
+2774,"Varela, Cristian",45735046,"EESA N°1",23,2,"A ALSINA",5,5
+2777,"Rodriguez, Walter",43699893,"EESA N°1",23,2,"A ALSINA",5,1
+1533,"Milla, Nicolas Héctor",46273107,"Colegio San Jose",23,2,"A ALSINA",6,3
+1360,"Crocco, Catalina",46273111,"Saturnino e. Unzué de San José",23,2,"A ALSINA",6,1
+2677,"Lanzilotta, Lautaro",46273193,"San jose",23,2,"A ALSINA",6,1
+1359,"Stoessel, Felipe",45577122,"Colegio San Jose",23,2,"A ALSINA",6,1
+4721,"Labin Rolaiser, Ana Sofía",45294504,"EES N 4",23,2,"A ALSINA",7,4
+3113,"Romero, Dalma",42626578,"EES 4",23,2,"A ALSINA",7,1
+3180,"Fernández laborde, Julián",45294511,"Jose Manuel estrada n°4",23,2,"A ALSINA",7,1
+2037,"Ermantraut, Sofia",42399048,"Instituto senderos",23,2,"A ALSINA",8,2
+1625,"Ledesma, Kevin",44462045,E.ESN3,23,2,"A ALSINA",9,3
+3179,"gette, candela",52922200,"escuela 3",23,2,"A ALSINA",9,1
+2549,"Rolon, Lautaro",43654243,"E.E.S n°3 Anexo San Miguel Arcangel",23,2,"A ALSINA",10,2
+4845,"MORENO, ROMINA",44462100,"EES N°5",23,2,"A ALSINA",11,2
+4851,"NUÑEZ, MILAGROS",44426818,"EES N°5",23,2,"A ALSINA",11,1
+4521,"Recalde, Eugenia",47478268,"Cec 801",23,2,"A ALSINA",12,3
+4522,"Artola, Nicole",47478272,Cec801,23,2,"A ALSINA",12,2
+5467,"Ermentraut, Brisa",47478257,"Cec 801",23,2,"A ALSINA",12,1
+754,"Preisegger, Guido Iván",43864987,EESN°5,23,20,DAIREAUX,1,5
+1000,"Bravo, Lucila",44414885,"Escuela técnica n1",23,20,DAIREAUX,1,4
+748,"Santillan, Maria de los angeles",45520558,"E.E.S N3",23,20,DAIREAUX,1,4
+597,"Borre, Martina",44414880,"Sagrada familia",23,20,DAIREAUX,1,3
+627,"Troncoso, Valentina",46412153,"C.E.P.T N° 27 ""LA VICTORIA""",23,20,DAIREAUX,1,3
+755,"Pacho Aramendi, Brisa Morena",44116122,"EES N1 Elsa Lorenzo",23,20,DAIREAUX,1,3
+709,"Corrales Alvarez, Morena",44116112,"EES N°1",23,20,DAIREAUX,1,3
+956,"Trimigliozzi, Valentina",43865010,EESN°2,23,20,DAIREAUX,1,2
+604,"Santucci, Fiorella",43657393,"Co.Sa. Fa",23,20,DAIREAUX,1,2
+1180,"Vivas, Nerea",42542392,"Escuela Secundaria N°6",23,20,DAIREAUX,1,2
+673,"Farias, Jonás Daniel",43657360,"EES N 4",23,20,DAIREAUX,1,2
+917,"Bazán Fernández, Suyay",44414890,"E.E.S N°2",23,20,DAIREAUX,1,1
+591,"fuentes, francisco",42830163,"E.E.S N°4",23,20,DAIREAUX,1,1
+958,"Gras, Ariela",44414881,EESN°2,23,20,DAIREAUX,1,1
+6015,"Gonzalez, Tobías",42392116,"DIPREGEP 6660  PARROQUIAL SANTA MARÍA",23,25,"C SUAREZ",1,17
+6213,"Calvo, Victoria",43797963,"Secundaria 10",23,25,"C SUAREZ",1,12
+5390,"resch, agustina",44166842,"escuela parroquial San José",23,25,"C SUAREZ",1,11
+5357,"Ziegler, Catalina",44933266,"Colegio nacional n4",23,25,"C SUAREZ",1,10
+5674,"Molina, Camila",44047753,"EES N 6",23,25,"C SUAREZ",1,5
+5367,"Rohwein Kippes, Zarina",44268211,"Escuela de Educacion Secundaria N°2",23,25,"C SUAREZ",1,5
+5534,"weimann, joaquin",44933212,"E.E.S N°4",23,25,"C SUAREZ",1,4
+5530,"Crunger, Silvestre",44339501,"E. E. S. T. N°1",23,25,"C SUAREZ",1,4
+5482,"Carenza, Iara Camila",44166896,"E.E.S.N 4",23,25,"C SUAREZ",1,3
+5457,"Cappetto Diaz, Delfina",43591913,"E.E.S N°4",23,25,"C SUAREZ",1,3
+5493,"Acuña, Tomas",45035439,E.E.S.N4,23,25,"C SUAREZ",1,2
+6031,"Perez, Augusto",44597416,"EES N°11",23,25,"C SUAREZ",1,2
+5512,"Steinbach, Lucía Ailen",44166888,"E.E.S n4",23,25,"C SUAREZ",1,2
+6085,"Dos Santos, Lucas",44933203,"EPS N°4",23,25,"C SUAREZ",1,1
+5097,"Schmitz, Magali",44489976,"Escuela de educacion secundaria n°3",23,25,"C SUAREZ",1,1
+5532,"Casenave, Alejo",44166863,"E.E.S.T N°1",23,25,"C SUAREZ",1,1
+5453,"Candia, Nicole",44933278,EESN4,23,25,"C SUAREZ",1,1
+5539,"Margiotta Beriain, Mariana",44520462,"Escuela Secundaria N°4",23,25,"C SUAREZ",1,1
+5513,"Leonhardt, Augusto",43513795,"E.E.S N°4",23,25,"C SUAREZ",1,1
+5349,"Arroyo, German",44489971,"IEM almirante brown",23,25,"C SUAREZ",1,1
+6768,"Bericiartúa Aberasturi, Matías",44587160,"Instituto Agrotecnico San José Obrero",23,84,PUAN,1,3
+6193,"Garay, Juliana",43866388,"Instituto Almafuerte",23,84,PUAN,1,2
+6763,"Viana, Ayelen",43470851,"Instituto Agrotecnico San José Obrero",23,84,PUAN,1,2
+5654,"Barrientos, Celina",44264685,E.E.S.N°4,23,84,PUAN,1,2
+5515,"Ruppel, Eliana",42798647,E.E.SN°2,23,84,PUAN,1,2
+6710,"Elorriaga Rueda, Ramiro",43591560,"Instituto General San Martín",23,84,PUAN,1,1
+5475,"Calvo, Celeste",43660408,ISSF,23,84,PUAN,1,1
+5503,"Marín, Daniela",42830583,"Escuela de Educación Secundaria N° 5 ""Octavio Lavigne"" de Puan",23,84,PUAN,1,1
+5276,"Flores Murias, Lucila Belén",44562124,"Anexo 3041",23,84,PUAN,1,1
+5480,"Bucke, Ian",44881185,ISSF,23,84,PUAN,1,1
+5502,"Plaza, Martina",43304687,"Escuela de Educación Secundaria N° 5 ""Octavio Lavigne"" de Puan",23,84,PUAN,1,1
+6517,"diez, carlos",44114117,"cept 30",23,84,PUAN,1,1
+4747,"Ristaño, Ludmila",43592786,"EEST N°1",23,91,SAAVEDRA,1,6
+4356,"Cuneo, Nicole",43.797.493,"Escuela secundaria número 2",23,91,SAAVEDRA,1,4
+6815,"Beltrachini, Alma",42830383,"Escuela Secundaria número 2",23,91,SAAVEDRA,1,1
+4642,"Araya, Laura",43907379,"Escuela de Educacion Secundaria Agraria N° 1",23,105,TORNQUIST,4,1
+4437,"Figueroa, Luz Abigail",42287391,EESTN1,23,105,TORNQUIST,7,1
+3849,"Rouco, Rodrigo",44356448,"Colegio Nuestra Señora de Lujan",23,105,TORNQUIST,9,3
+489,"Lopez, Valentina",44928499,"EES N°2",24,56,"LAS FLORES",20,3
+495,"Serafini, Carola",44113438,"San Miguel",24,56,"LAS FLORES",20,3
+500,"Sandoval, Agustín",45073336,"Escuela Normal",24,56,"LAS FLORES",20,2
+486,"Scalisi, Pilar",43867541,"Dante ALIGHIERI",24,56,"LAS FLORES",20,2
+497,"Davancens, Victoria",43912418,"San Miguel",24,56,"LAS FLORES",20,2
+493,"García Romero, Rocío",44414605,"Escuela Normal",24,56,"LAS FLORES",20,2
+501,"Ianini, Irina",44589643,"Escuela Normal",24,56,"LAS FLORES",20,1
+499,"Orradre, Lara",44451348,"Dante Alighieri",24,56,"LAS FLORES",20,1
+502,"Arrúa Miano, Maia",44113410,"San Miguel",24,56,"LAS FLORES",20,1
+503,"Rebolledo, Brisa",45606130,"Escuela Técnica",24,56,"LAS FLORES",20,1
+505,"Pedernera, Nahir",44928409,"Escuela Media",24,56,"LAS FLORES",20,1
+490,"Risso, Antonela",45914883,"EES N°2",24,56,"LAS FLORES",20,1
+492,"Barragan, Fatima",43867366,ISM,24,56,"LAS FLORES",20,1
+488,"Rodriguez, Valentina",44339417,ISM,24,56,"LAS FLORES",20,1
+482,"Kobarynka, Eliana",44589677,"Escuela Secundaria N° 1",24,56,"LAS FLORES",20,1
+496,"Lujan, Brisa",44414611,"Escuela Media",24,56,"LAS FLORES",20,1
+498,"Ziguencio, Miguelina",45606184,"Escuela Técnica",24,56,"LAS FLORES",20,1
+498,"Ziguencio, Miguelina",45606184,"Escuela Técnica",24,56,"LAS FLORES",20,1
+1131,"zircubich, roman",44242147,"EES Nº 2",24,92,SALADILLO,4,1
+1141,"Ruti, Natanael Emanuel",43732573,"EES Nº 2",24,92,SALADILLO,4,1
+5749,"LAZZARO, JUAN PATRICIO",45040786,"SAN FRANCISCO DE XABIER",24,108,"V DE MAYO",1,5
+5741,"Centurión, Camila",43857145,"Escuela de Educación Secundaria N°7",24,108,"V DE MAYO",1,1
+5861,"Marin, milagros",44748709,"EES N 7",24,108,"V DE MAYO",1,1
+5755,"Garcia, Martina",44040726,Sec.n8,24,108,"V DE MAYO",1,1
+5755,"Garcia, Martina",44040726,Sec.n8,24,108,"V DE MAYO",1,1
+5755,"Garcia, Martina",44040726,Sec.n8,24,108,"V DE MAYO",1,1
+5761,"D?Amico, Valentina",44930046,Normal,24,108,"V DE MAYO",2,4
+5763,"Covino, Andrés",43656544,"Barón Pierre de Coubertin",24,108,"V DE MAYO",2,3
+5833,"Demarco, Sol",44111405,Normal,24,108,"V DE MAYO",2,2
+5894,"Lucas, Benjamín",42959499,"E.E.S N3 Del Valle",24,108,"V DE MAYO",2,1
+5785,"Avila, Delfina",44266265,"Escuela normal",24,108,"V DE MAYO",3,5
+5780,"Buirás, Mariana",46416728,"E.E.S.T. N°1",24,108,"V DE MAYO",4,2
+5784,"Fachinelli, Martin",44930018,"Varon pierre",24,108,"V DE MAYO",4,2
+5858,"Romero, Andrés",44593699,"EEST N°1",24,108,"V DE MAYO",4,2
+5744,"Cavallero, Justina",44050665,"Carlos Pellegrini",24,108,"V DE MAYO",4,1
+5768,"Basualdo, Belen",44356754,"Sec 8",24,108,"V DE MAYO",4,1
+5743,"Martin, Abigail",44356796,"San Francisco de Xabier",24,108,"V DE MAYO",4,1
+5751,"Vicondoa, Guadalupe",45040777,"SEC 8",24,108,"V DE MAYO",5,3
+5751,"Vicondoa, Guadalupe",45040777,"SEC 8",24,108,"V DE MAYO",5,3
+5752,"Rodriguez, Ramiro",43656534,Normal,24,108,"V DE MAYO",5,1
+5767,"Lobaisa Moscoso, Nataly Ailen",44266249,"San Francisco de Xabier",24,108,"V DE MAYO",5,1
+3760,"Alumno, Prueba",26619536,EESTN°1,24,108,"V DE MAYO",20,1
+6178,"Cejas, Lucia",44050792,"E.E.S n°2",25,77,OLAVARRIA,2,3
+6166,"morales, Branco",42296372,"Nuevas Lenguas",25,77,OLAVARRIA,2,2
+6177,"Cordido, Ezequiel",43197506,Comercio,25,77,OLAVARRIA,2,1
+6214,"Ponce, Estefanía",43738640,"Secundaria 16",25,77,OLAVARRIA,3,7
+6217,"Ariadna, Jaime",44489389,"Secundaria n°10 (Ex Normal)",25,77,OLAVARRIA,3,3
+6222,"Pucheu, Paloma",44693276,"Nuestra señora de Fátima",25,77,OLAVARRIA,3,1
+6311,"Garro, Antonella",44461206,"E. E. Si n°20",25,77,OLAVARRIA,4,5
+6308,"Olivera, Sofia",44693054,"Escuela de educación secundaria N°1 JLB",25,77,OLAVARRIA,4,3
+6294,"Maldonado, Iñaki",44591465,E.e.s.3,25,77,OLAVARRIA,4,2
+6293,"Mendoza, Daiana",43738691,"E.E.S N°20",25,77,OLAVARRIA,4,1
+6303,"López, Bautista",43511738,"Agraria 1",25,77,OLAVARRIA,4,1
+6300,"Landaburú, Pedro",43511707,"Agraria 1",25,77,OLAVARRIA,4,1
+6313,"ayalef, luciana",43738613,Nacional,25,77,OLAVARRIA,4,1

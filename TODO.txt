@@ -1,0 +1,35 @@
+TODO
+====
+
+HECHO
+=====
+paginación --> ok
+ordenar por comisión --> ok
+agregar el n° de comisión del alumno en el inicio --> ok
+
+
+PENDIENTE
+=========
+
+filtro de alumnos NO HABILITADOS
+
+guía de trabajo en comisión (para que alumn@s sepan como manejarse)
+
+habilitar el botón de votación por comisiones
+
+solucionar Desempate ejemplo 30% 30% 40%
+
+contabilizar cantidad de alumnos por comisión y total
+
+actualizar listado al borrar y/o modificar
+
+alumno no habilitado lo cuenta en la comisión
+
+
+Solución de problemas
+
+BORRAR VOTOS
+SELECT *  FROM `votos` WHERE `distrito` = 132
+
+BORRAR POSTULANTES
+SELECT *  FROM `postulantes` WHERE `distrito` = 132
